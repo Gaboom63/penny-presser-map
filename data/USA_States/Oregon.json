@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Portland Zoo",
+    "lat": 45.5723,
+    "lng": -122.7504,
+    "description": "Machine near the entrance.",
+    "tags": ["zoo", "Oregon"],
+    "state": "OR",
+    "photo": "https://example.com/photos/portland_zoo.jpg"
+  },
+  {
+    "name": "Portland Japanese Garden",
+    "lat": 45.5128,
+    "lng": -122.7168,
+    "description": "Machine near the gift shop inside the garden.",
+    "tags": ["Portland", "garden", "tourist"],
+    "state": "OR",
+    "photo": "https://example.com/photos/portland_japanese_garden.jpg"
+  }
+]

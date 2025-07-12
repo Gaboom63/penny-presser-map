@@ -1,0 +1,75 @@
+[
+  {
+    "name": "SeaWorld Orlando",
+    "lat": 28.4115,
+    "lng": -81.4625,
+    "description": "Machines throughout the park.",
+    "tags": ["theme-park", "Florida"],
+    "state": "FL",
+    "photo": "https://example.com/photos/seaworld_orlando.jpg"
+  },
+  {
+    "name": "Epcot – Mexico Pavilion",
+    "lat": 28.3710,
+    "lng": -81.5495,
+    "description": "Pressed penny machine inside pavilion, multiple designs.",
+    "tags": ["theme-park", "Disney", "Epcot"],
+    "state": "FL",
+    "photo": "https://example.com/photos/epcot_mexico.jpg"
+  },
+  {
+    "name": "St. Augustine Historic District",
+    "lat": 29.8947,
+    "lng": -81.3146,
+    "description": "Pressed penny machines near local museums.",
+    "tags": ["historic", "Florida"],
+    "state": "FL",
+    "photo": "https://example.com/photos/st_augustine.jpg"
+  },
+  {
+    "name": "Jacksonville Zoo and Gardens",
+    "lat": 30.3590,
+    "lng": -81.6559,
+    "description": "Machine near the main entrance.",
+    "tags": ["zoo", "Florida"],
+    "state": "FL",
+    "photo": "https://example.com/photos/jacksonville_zoo.jpg"
+  },
+    {
+    "name": "Pier 60 Clearwater Beach",
+    "lat": 27.9771,
+    "lng": -82.8267,
+    "description": "Souvenir penny machine near fishing piers and shops.",
+    "tags": ["beach", "Florida"],
+    "state": "FL",
+    "photo": "https://example.com/photos/pier_60_clearwater.jpg"
+  },
+  {
+    "name": "Universal Studios Orlando",
+    "lat": 28.4723,
+    "lng": -81.4667,
+    "description": "Multiple penny press machines throughout the park.",
+    "tags": ["theme-park", "Florida"],
+    "state": "FL",
+    "photo": "https://example.com/photos/universal_orlando.jpg"
+  },
+  {
+    "name": "Fort Lauderdale Beach",
+    "lat": 26.1224,
+    "lng": -80.1373,
+    "description": "Machine near beachfront shops and attractions.",
+    "tags": ["beach", "Florida"],
+    "state": "FL",
+    "photo": "https://example.com/photos/fort_lauderdale_beach.jpg"
+  },
+  {
+    "name": "St. Augustine Historic District",
+    "lat": 29.8956,
+    "lng": -81.3145,
+    "description": "Souvenir penny machine in the historic downtown area.",
+    "tags": ["historic", "Florida", "tourist"],
+    "state": "FL",
+    "photo": "https://example.com/photos/st_augustine_historic.jpg"
+  }
+
+]

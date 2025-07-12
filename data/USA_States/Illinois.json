@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chicago Navy Pier",
+    "lat": 41.8917,
+    "lng": -87.6079,
+    "description": "Pressed penny machine inside the Crystal Gardens.",
+    "tags": ["Chicago", "tourist"],
+    "state": "IL",
+    "photo": "https://example.com/photos/navy_pier.jpg"
+  },
+  {
+    "name": "Navy Pier Ferris Wheel",
+    "lat": 41.8917,
+    "lng": -87.6079,
+    "description": "Pressed penny machine at the Ferris wheel area.",
+    "tags": ["Chicago", "tourist"],
+    "state": "IL",
+    "photo": "https://example.com/photos/navy_pier_ferris_wheel.jpg"
+  }
+]

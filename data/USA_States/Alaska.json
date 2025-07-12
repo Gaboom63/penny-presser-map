@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Alaska SeaLife Center",
+    "lat": 60.7426,
+    "lng": -147.0524,
+    "description": "Pressed penny machine near aquarium exhibits.",
+    "tags": ["aquarium", "Alaska"],
+    "state": "AK",
+    "photo": "https://example.com/photos/alaska_sealife.jpg"
+  }
+]

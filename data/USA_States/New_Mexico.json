@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Santa Fe Plaza",
+    "lat": 35.6869,
+    "lng": -105.9378,
+    "description": "Machine near artisan shops in the plaza.",
+    "tags": ["New Mexico", "historic"],
+    "state": "NM",
+    "photo": "https://example.com/photos/santa_fe_plaza.jpg"
+  }
+]

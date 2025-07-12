@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Boston Museum of Science",
+    "lat": 42.3679,
+    "lng": -71.0712,
+    "description": "Machine near entrance.",
+    "tags": ["museum", "Boston"],
+    "state": "MA",
+    "photo": "https://example.com/photos/boston_museum_science.jpg"
+  },
+  {
+    "name": "Boston Children's Museum",
+    "lat": 42.3522,
+    "lng": -71.0495,
+    "description": "Pressed penny machine near the main entrance.",
+    "tags": ["Boston", "museum", "children"],
+    "state": "MA",
+    "photo": "https://example.com/photos/boston_childrens_museum.jpg"
+  }
+]

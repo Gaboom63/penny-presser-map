@@ -1,0 +1,29 @@
+[
+  {
+    "name": "National Aquarium Baltimore",
+    "lat": 39.2856,
+    "lng": -76.6057,
+    "description": "Machine near the entrance.",
+    "tags": ["aquarium", "Maryland"],
+    "state": "MD",
+    "photo": "https://example.com/photos/national_aquarium_baltimore.jpg"
+  },
+  {
+    "name": "Ocean City Boardwalk",
+    "lat": 38.3365,
+    "lng": -75.0849,
+    "description": "Souvenir penny machine near rides and shops.",
+    "tags": ["boardwalk", "Maryland"],
+    "state": "MD",
+    "photo": "https://example.com/photos/ocean_city_boardwalk.jpg"
+  },
+  {
+    "name": "The National Aquarium",
+    "lat": 39.2836,
+    "lng": -76.6066,
+    "description": "Machine near the entrance.",
+    "tags": ["aquarium", "Maryland"],
+    "state": "MD",
+    "photo": "https://example.com/photos/national_aquarium.jpg"
+  }
+]

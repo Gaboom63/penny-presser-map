@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Myrtle Beach Boardwalk",
+    "lat": 33.6891,
+    "lng": -78.8867,
+    "description": "Multiple penny press machines near attractions.",
+    "tags": ["boardwalk", "South Carolina"],
+    "state": "SC",
+    "photo": "https://example.com/photos/myrtle_beach_boardwalk.jpg"
+  },
+  {
+    "name": "Charleston Historic District",
+    "lat": 32.7765,
+    "lng": -79.9311,
+    "description": "Pressed penny machine near historic shops.",
+    "tags": ["historic", "South Carolina"],
+    "state": "SC",
+    "photo": "https://example.com/photos/charleston_historic.jpg"
+  },
+    {
+    "name": "Cincinnati Zoo & Botanical Garden",
+    "lat": 39.1338,
+    "lng": -84.5161,
+    "description": "Machine near the gift shop.",
+    "tags": ["zoo", "Ohio"],
+    "state": "OH",
+    "photo": "https://example.com/photos/cincinnati_zoo.jpg"
+  },
+  {
+    "name": "Kings Island Amusement Park",
+    "lat": 39.3501,
+    "lng": -84.3123,
+    "description": "Multiple penny press machines throughout the park.",
+    "tags": ["theme-park", "Ohio"],
+    "state": "OH",
+    "photo": "https://example.com/photos/kings_island.jpg"
+  },
+  {
+    "name": "Cedar Point Amusement Park",
+    "lat": 41.4822,
+    "lng": -82.6831,
+    "description": "Multiple penny press machines throughout the park.",
+    "tags": ["Ohio", "theme-park"],
+    "state": "OH",
+    "photo": "https://example.com/photos/cedar_point.jpg"
+  }
+
+]

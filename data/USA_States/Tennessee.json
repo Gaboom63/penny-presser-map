@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Graceland – Elvis Presley’s Home",
+    "lat": 35.0477,
+    "lng": -90.0260,
+    "description": "Machine in the main souvenir store.",
+    "tags": ["Memphis", "music", "tourist"],
+    "state": "TN",
+    "photo": "https://example.com/photos/graceland.jpg"
+  },
+  {
+    "name": "Great Smoky Mountains National Park",
+    "lat": 35.6532,
+    "lng": -83.5070,
+    "description": "Machine near visitor center.",
+    "tags": ["national park", "Tennessee", "North Carolina"],
+    "state": "TN",
+    "photo": "https://example.com/photos/smoky_mountains.jpg"
+  },
+    {
+    "name": "Dollywood Theme Park",
+    "lat": 35.8169,
+    "lng": -83.5703,
+    "description": "Multiple penny press machines throughout park.",
+    "tags": ["theme-park", "Tennessee"],
+    "state": "TN",
+    "photo": "https://example.com/photos/dollywood.jpg"
+  },
+  {
+    "name": "Pigeon Forge",
+    "lat": 35.7915,
+    "lng": -83.5610,
+    "description": "Multiple penny press machines in shops.",
+    "tags": ["tourist", "Tennessee"],
+    "state": "TN",
+    "photo": "https://example.com/photos/pigeon_forge.jpg"
+  },
+    {
+    "name": "Opry Mills Mall",
+    "lat": 36.1592,
+    "lng": -86.7816,
+    "description": "Machine located inside the mall near the food court.",
+    "tags": ["mall", "Tennessee"],
+    "state": "TN",
+    "photo": "https://example.com/photos/opry_mills.jpg"
+  },
+  {
+    "name": "Chattanooga Riverwalk",
+    "lat": 35.0545,
+    "lng": -85.3097,
+    "description": "Souvenir penny machine near park entrance.",
+    "tags": ["park", "Tennessee"],
+    "state": "TN",
+    "photo": "https://example.com/photos/chattanooga_riverwalk.jpg"
+  }
+
+]

@@ -1,0 +1,84 @@
+[
+  {
+  "name": "Empire State Building",
+  "lat": 40.748817,
+  "lng": -73.985428,
+  "description": "Located near the gift shop.",
+  "tags": ["NYC", "tourist"],
+  "state": "NY",
+  "photo": "https://example.com/photos/empire_state_building.jpg"
+},
+{
+  "name": "Niagara Falls Visitor Center",
+  "lat": 43.0828,
+  "lng": -79.0742,
+  "description": "Souvenir penny machine near entrance.",
+  "tags": ["tourist", "New York"],
+  "state": "NY",
+  "photo": "https://example.com/photos/niagara_falls.jpg"
+},
+  {
+    "name": "Niagara Falls State Park",
+    "lat": 43.0962,
+    "lng": -79.0377,
+    "description": "Souvenir penny machine available near entrance.",
+    "tags": ["tourist", "New York"],
+    "state": "NY",
+    "photo": "https://example.com/photos/niagara_falls_state_park.jpg"
+  },
+  {
+    "name": "Coney Island Boardwalk",
+    "lat": 40.5749,
+    "lng": -73.9850,
+    "description": "Pressed penny machine near rides and shops.",
+    "tags": ["boardwalk", "New York"],
+    "state": "NY",
+    "photo": "https://example.com/photos/coney_island_boardwalk.jpg"
+  },
+  {
+    "name": "Niagara Falls Observation Deck",
+    "lat": 43.0828,
+    "lng": -79.0742,
+    "description": "Souvenir penny machine near the observation deck.",
+    "tags": ["tourist", "New York"],
+    "state": "NY",
+    "photo": "https://example.com/photos/niagara_observation.jpg"
+  },
+  {
+    "name": "Brooklyn Bridge Park",
+    "lat": 40.7003,
+    "lng": -73.9967,
+    "description": "Penny press machine near waterfront attractions.",
+    "tags": ["New York", "park", "tourist"],
+    "state": "NY",
+    "photo": "https://example.com/photos/brooklyn_bridge_park.jpg"
+  },
+  {
+    "name": "Coney Island Cyclone",
+    "lat": 40.5740,
+    "lng": -73.9826,
+    "description": "Pressed penny machine near the roller coaster.",
+    "tags": ["New York", "amusement park", "tourist"],
+    "state": "NY",
+    "photo": "https://example.com/photos/coney_island_cyclone.jpg"
+  },
+  {
+    "name": "Niagara Falls State Park - Cave of the Winds",
+    "lat": 43.0826,
+    "lng": -79.0717,
+    "description": "Machine near the Cave of the Winds entrance.",
+    "tags": ["tourist", "New York"],
+    "state": "NY",
+    "photo": "https://example.com/photos/cave_of_winds.jpg"
+  },
+  {
+    "name": "Rockefeller Center",
+    "lat": 40.7587,
+    "lng": -73.9787,
+    "description": "Machine near the Christmas tree during the holiday season.",
+    "tags": ["New York", "tourist", "landmark"],
+    "state": "NY",
+    "photo": "https://example.com/photos/rockefeller_center.jpg"
+  }
+
+]

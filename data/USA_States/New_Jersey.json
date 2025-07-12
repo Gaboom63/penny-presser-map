@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Liberty Science Center",
+    "lat": 40.7075,
+    "lng": -74.0545,
+    "description": "Pressed penny machine near exhibits.",
+    "tags": ["museum", "New Jersey"],
+    "state": "NJ",
+    "photo": "https://example.com/photos/liberty_science_center.jpg"
+  }
+]

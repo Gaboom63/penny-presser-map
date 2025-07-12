@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Indianapolis Zoo",
+    "lat": 39.7684,
+    "lng": -86.1566,
+    "description": "Machine near the dolphin exhibit.",
+    "tags": ["zoo", "Indiana"],
+    "state": "IN",
+    "photo": "https://example.com/photos/indianapolis_zoo.jpg"
+  },
+  {
+    "name": "The Children's Museum of Indianapolis",
+    "lat": 39.7782,
+    "lng": -86.1459,
+    "description": "Machine near entrance.",
+    "tags": ["museum", "Indiana"],
+    "state": "IN",
+    "photo": "https://example.com/photos/childrens_museum_indianapolis.jpg"
+  },
+  {
+    "name": "Indianapolis Motor Speedway",
+    "lat": 39.7953,
+    "lng": -86.2389,
+    "description": "Pressed penny machine in gift shop.",
+    "tags": ["sports", "Indiana"],
+    "state": "IN",
+    "photo": "https://example.com/photos/indianapolis_motor_speedway.jpg"
+  }
+]

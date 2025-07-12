@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Smithsonian National Zoo",
+    "lat": 38.9296,
+    "lng": -77.0498,
+    "description": "Machine near visitor entrance.",
+    "tags": ["zoo", "Washington DC"],
+    "state": "DC",
+    "photo": "https://example.com/photos/smithsonian_zoo.jpg"
+  },
+  {
+    "name": "Smithsonian National Air and Space Museum",
+    "lat": 38.8882,
+    "lng": -77.0199,
+    "description": "Machine near gift shop.",
+    "tags": ["museum", "Washington DC"],
+    "state": "DC",
+    "photo": "https://example.com/photos/air_space_museum.jpg"
+  },
+  {
+    "name": "National Mall, Washington DC",
+    "lat": 38.8893,
+    "lng": -77.0502,
+    "description": "Machine near monuments and museums.",
+    "tags": ["Washington DC", "historic"],
+    "state": "DC",
+    "photo": "https://example.com/photos/national_mall.jpg"
+  },
+  {
+    "name": "Washington Monument",
+    "lat": 38.8895,
+    "lng": -77.0353,
+    "description": "Penny press machine near the visitor center.",
+    "tags": ["Washington DC", "historic"],
+    "state": "DC",
+    "photo": "https://example.com/photos/washington_monument.jpg"
+  },
+    {
+    "name": "Pike Place Market",
+    "lat": 47.6101,
+    "lng": -122.3421,
+    "description": "Machine near market stalls and shops.",
+    "tags": ["Seattle", "market", "tourist"],
+    "state": "WA",
+    "photo": "https://example.com/photos/pike_place_market.jpg"
+  },
+  {
+    "name": "Seattle Aquarium",
+    "lat": 47.6074,
+    "lng": -122.3425,
+    "description": "Machine near the entrance.",
+    "tags": ["aquarium", "Seattle"],
+    "state": "WA",
+    "photo": "https://example.com/photos/seattle_aquarium.jpg"
+  }
+
+
+]

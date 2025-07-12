@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Kalahari Resorts Wisconsin Dells",
+    "lat": 43.6287,
+    "lng": -89.7789,
+    "description": "Machine inside water park lobby.",
+    "tags": ["resort", "Wisconsin"],
+    "state": "WI",
+    "photo": "https://example.com/photos/kalahari_wi.jpg"
+  },
+  {
+    "name": "Madison Zoo",
+    "lat": 43.0799,
+    "lng": -89.4000,
+    "description": "Penny press machine near the main entrance.",
+    "tags": ["zoo", "Wisconsin"],
+    "state": "WI",
+    "photo": "https://example.com/photos/madison_zoo.jpg"
+  }
+]

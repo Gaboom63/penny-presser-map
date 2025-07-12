@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Philadelphia Museum of Art",
+    "lat": 39.9656,
+    "lng": -75.1809,
+    "description": "Machine near the gift shop.",
+    "tags": ["museum", "Philadelphia"],
+    "state": "PA",
+    "photo": "https://example.com/photos/philadelphia_museum.jpg"
+  },
+   {
+    "name": "Liberty Bell Center",
+    "lat": 39.9496,
+    "lng": -75.1503,
+    "description": "Machine near the Liberty Bell exhibit.",
+    "tags": ["Philadelphia", "historic", "museum"],
+    "state": "PA",
+    "photo": "https://example.com/photos/liberty_bell_center.jpg"
+  },
+    {
+    "name": "Philadelphia Zoo",
+    "lat": 39.9736,
+    "lng": -75.1997,
+    "description": "Penny press machine near the entrance.",
+    "tags": ["zoo", "Philadelphia"],
+    "state": "PA",
+    "photo": "https://example.com/photos/philadelphia_zoo.jpg"
+  },
+  {
+    "name": "Philadelphia Museum of Art",
+    "lat": 39.9656,
+    "lng": -75.1800,
+    "description": "Pressed penny machine near the museum entrance.",
+    "tags": ["museum", "Philadelphia", "art"],
+    "state": "PA",
+    "photo": "https://example.com/photos/philadelphia_museum_of_art.jpg"
+  }
+
+]

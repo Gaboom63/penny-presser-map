@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Providence Place Mall",
+    "lat": 41.8239,
+    "lng": -71.4128,
+    "description": "Penny press machine near food court.",
+    "tags": ["mall", "Rhode Island"],
+    "state": "RI",
+    "photo": "https://example.com/photos/providence_place_mall.jpg"
+  }
+]

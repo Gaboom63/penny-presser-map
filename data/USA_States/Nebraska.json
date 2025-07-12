@@ -1,0 +1,11 @@
+[
+  {
+    "name": "The Henry Doorly Zoo",
+    "lat": 41.2646,
+    "lng": -95.9441,
+    "description": "Machine near the desert dome.",
+    "tags": ["zoo", "Nebraska"],
+    "state": "NE",
+    "photo": "https://example.com/photos/henry_doorly_zoo.jpg"
+  }
+]

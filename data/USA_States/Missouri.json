@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Gateway Arch National Park",
+    "lat": 38.6247,
+    "lng": -90.1848,
+    "description": "Inside the museum under the Arch.",
+    "tags": ["St. Louis", "historic", "tourist"],
+    "state": "MO",
+    "photo": "https://example.com/photos/gateway_arch.jpg"
+  }
+]

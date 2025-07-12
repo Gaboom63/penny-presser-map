@@ -1,0 +1,20 @@
+[
+  {
+    "name": "The Henry Ford Museum",
+    "lat": 42.3209,
+    "lng": -83.2267,
+    "description": "Machine near the main entrance.",
+    "tags": ["museum", "Michigan"],
+    "state": "MI",
+    "photo": "https://example.com/photos/henry_ford_museum.jpg"
+  },
+  {
+    "name": "The Henry Ford Museum",
+    "lat": 42.3143,
+    "lng": -83.1763,
+    "description": "Machine near the museum entrance and gift shop.",
+    "tags": ["museum", "Michigan", "history"],
+    "state": "MI",
+    "photo": "https://example.com/photos/henry_ford_museum.jpg"
+  }
+]

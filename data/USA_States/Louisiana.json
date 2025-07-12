@@ -1,0 +1,20 @@
+[
+  {
+    "name": "New Orleans French Quarter",
+    "lat": 29.9584,
+    "lng": -90.0643,
+    "description": "Souvenir penny machines near Jackson Square.",
+    "tags": ["New Orleans", "historic"],
+    "state": "LA",
+    "photo": "https://example.com/photos/french_quarter.jpg"
+  },
+  {
+    "name": "The National WWII Museum",
+    "lat": 29.9436,
+    "lng": -90.0701,
+    "description": "Pressed penny machine near the entrance.",
+    "tags": ["museum", "New Orleans"],
+    "state": "LA",
+    "photo": "https://example.com/photos/national_wwii_museum.jpg"
+  }
+]

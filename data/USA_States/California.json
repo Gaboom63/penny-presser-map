@@ -1,0 +1,147 @@
+[
+  {
+    "name": "San Diego Zoo",
+    "lat": 32.7353,
+    "lng": -117.1490,
+    "description": "Multiple penny press machines throughout the zoo.",
+    "tags": ["zoo", "San Diego"],
+    "state": "CA",
+    "photo": "https://example.com/photos/sdzoo.jpg"
+  },
+  {
+    "name": "Disneyland Main Street",
+    "lat": 33.812,
+    "lng": -117.918,
+    "description": "8-die machine inside the Emporium shop.",
+    "tags": ["Disney", "theme-park", "California"],
+    "state": "CA",
+    "photo": "https://example.com/photos/disneyland_mainstreet.jpg"
+  },
+  {
+    "name": "Fisherman's Wharf, San Francisco",
+    "lat": 37.808,
+    "lng": -122.409,
+    "description": "4-die machine near Wax Museum.",
+    "tags": ["San Francisco", "tourist"],
+    "state": "CA",
+    "photo": "https://example.com/photos/fishermans_wharf.jpg"
+  },
+  {
+    "name": "Universal Studios Hollywood",
+    "lat": 34.1381,
+    "lng": -118.3534,
+    "description": "Machines near entrance and themed stores.",
+    "tags": ["California", "theme-park"],
+    "state": "CA",
+    "photo": "https://example.com/photos/universal_studios_hollywood.jpg"
+  },
+  {
+    "name": "Hollywood Blvd – TCL Chinese Theatre",
+    "lat": 34.102,
+    "lng": -118.340,
+    "description": "Machine near the Walk of Fame.",
+    "tags": ["Hollywood", "California", "tourist"],
+    "state": "CA",
+    "photo": "https://example.com/photos/tcl_chinese_theatre.jpg"
+  },
+  {
+    "name": "Six Flags Magic Mountain",
+    "lat": 34.4250,
+    "lng": -118.5954,
+    "description": "Multiple machines throughout the park.",
+    "tags": ["theme-park", "California"],
+    "state": "CA",
+    "photo": "https://example.com/photos/six_flags_magic_mountain.jpg"
+  },
+  {
+    "name": "Hollywood Walk of Fame",
+    "lat": 34.1016,
+    "lng": -118.3269,
+    "description": "Pressed penny machine near TCL Chinese Theatre.",
+    "tags": ["Hollywood", "California", "tourist"],
+    "state": "CA",
+    "photo": "https://example.com/photos/hollywood_walk_of_fame.jpg"
+  },
+  {
+    "name": "San Diego SeaWorld",
+    "lat": 32.7648,
+    "lng": -117.2266,
+    "description": "Pressed penny machines throughout the park.",
+    "tags": ["theme-park", "zoo", "California"],
+    "state": "CA",
+    "photo": "https://example.com/photos/seaworld_san_diego.jpg"
+  },
+  {
+    "name": "San Francisco Pier 39",
+    "lat": 37.8087,
+    "lng": -122.4098,
+    "description": "Pressed penny machines near shops and restaurants.",
+    "tags": ["San Francisco", "tourist"],
+    "state": "CA",
+    "photo": "https://example.com/photos/pier_39.jpg"
+  },
+  {
+    "name": "Santa Monica Pier",
+    "lat": 34.0094,
+    "lng": -118.4973,
+    "description": "Machine near souvenir shops.",
+    "tags": ["California", "tourist"],
+    "state": "CA",
+    "photo": "https://example.com/photos/santa_monica_pier.jpg"
+  },
+  {
+    "name": "The Broad Museum",
+    "lat": 34.0544,
+    "lng": -118.2506,
+    "description": "Penny press machine near the gift shop.",
+    "tags": ["museum", "Los Angeles"],
+    "state": "CA",
+    "photo": "https://example.com/photos/broad_museum.jpg"
+  },
+  {
+    "name": "Golden Gate Park",
+    "lat": 37.7694,
+    "lng": -122.4862,
+    "description": "Penny press machine near Conservatory of Flowers.",
+    "tags": ["San Francisco", "park"],
+    "state": "CA",
+    "photo": "https://example.com/photos/golden_gate_park.jpg"
+  },
+  {
+    "name": "Coronado Beach",
+    "lat": 32.6859,
+    "lng": -117.1831,
+    "description": "Souvenir penny machine near shops.",
+    "tags": ["beach", "California"],
+    "state": "CA",
+    "photo": "https://example.com/photos/coronado_beach.jpg"
+  },
+  {
+    "name": "Lake Tahoe",
+    "lat": 39.0968,
+    "lng": -120.0324,
+    "description": "Pressed penny machines at various visitor centers.",
+    "tags": ["lake", "California", "Nevada"],
+    "state": "CA",
+    "photo": "https://example.com/photos/lake_tahoe.jpg"
+  },
+  {
+    "name": "Alcatraz Island",
+    "lat": 37.8267,
+    "lng": -122.4230,
+    "description": "Souvenir penny machine at the gift shop on the island.",
+    "tags": ["San Francisco", "historic", "tourist"],
+    "state": "CA",
+    "photo": "https://example.com/photos/alcatraz_island.jpg"
+  },
+  {
+    "name": "The Getty Center",
+    "lat": 34.0780,
+    "lng": -118.4741,
+    "description": "Pressed penny machine near the museum café.",
+    "tags": ["Los Angeles", "museum", "art"],
+    "state": "CA",
+    "photo": "https://example.com/photos/getty_center.jpg"
+  }
+
+]

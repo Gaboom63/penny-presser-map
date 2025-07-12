@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mall of America",
+    "lat": 44.8547,
+    "lng": -93.2422,
+    "description": "Machine near Nickelodeon Universe.",
+    "tags": ["Minnesota", "mall"],
+    "state": "MN",
+    "photo": "https://example.com/photos/mall_of_america.jpg"
+  },
+   {
+    "name": "Minneapolis Mall of America",
+    "lat": 44.8547,
+    "lng": -93.2422,
+    "description": "Machine near Nickelodeon Universe.",
+    "tags": ["mall", "Minnesota"],
+    "state": "MN",
+    "photo": "https://example.com/photos/mall_of_america_2.jpg"
+  }
+]

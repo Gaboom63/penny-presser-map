@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Mall of Georgia",
+    "lat": 34.0317,
+    "lng": -84.1421,
+    "description": "Machine near main entrances.",
+    "tags": ["mall", "Georgia"],
+    "state": "GA",
+    "photo": "https://example.com/photos/mall_of_georgia.jpg"
+  }
+]

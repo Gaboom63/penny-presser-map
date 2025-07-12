@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Denver Zoo",
+    "lat": 39.7500,
+    "lng": -104.9520,
+    "description": "Machine near the elephant exhibit.",
+    "tags": ["zoo", "Denver"],
+    "state": "CO",
+    "photo": "https://example.com/photos/denver_zoo.jpg"
+  },
+   {
+    "name": "Denver Museum of Nature & Science",
+    "lat": 39.7471,
+    "lng": -104.9491,
+    "description": "Machine near the gift shop.",
+    "tags": ["museum", "Denver"],
+    "state": "CO",
+    "photo": "https://example.com/photos/denver_museum_nature_science.jpg"
+  }
+]

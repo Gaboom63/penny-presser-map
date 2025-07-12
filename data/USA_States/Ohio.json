@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cedar Point Amusement Park",
+    "lat": 41.4822,
+    "lng": -82.6839,
+    "description": "Multiple penny press machines throughout the park.",
+    "tags": ["theme-park", "Ohio"],
+    "state": "OH",
+    "photo": "https://example.com/photos/cedar_point.jpg"
+  },
+  {
+    "name": "Columbus Zoo and Aquarium",
+    "lat": 39.9941,
+    "lng": -83.0216,
+    "description": "Machine in the gift shop.",
+    "tags": ["zoo", "Ohio"],
+    "state": "OH",
+    "photo": "https://example.com/photos/columbus_zoo.jpg"
+  }
+]

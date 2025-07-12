@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Las Vegas Strip – M&M World",
+    "lat": 36.1026,
+    "lng": -115.1695,
+    "description": "Machine on the third floor of M&M World.",
+    "tags": ["Las Vegas", "tourist", "souvenir"],
+    "state": "NV",
+    "photo": "https://example.com/photos/m_and_m_world.jpg"
+  }
+]

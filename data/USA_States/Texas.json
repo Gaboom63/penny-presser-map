@@ -1,0 +1,84 @@
+[
+  {
+    "name": "San Antonio River Walk",
+    "lat": 29.4252,
+    "lng": -98.4946,
+    "description": "Machine near souvenir shops.",
+    "tags": ["San Antonio", "tourist"],
+    "state": "TX",
+    "photo": "https://example.com/photos/san_antonio_river_walk.jpg"
+  },
+  {
+    "name": "The Alamo",
+    "lat": 29.4259,
+    "lng": -98.4861,
+    "description": "Pressed penny machine near gift shop.",
+    "tags": ["historic", "Texas"],
+    "state": "TX",
+    "photo": "https://example.com/photos/the_alamo.jpg"
+  },
+  {
+    "name": "Fort Worth Stockyards",
+    "lat": 32.7819,
+    "lng": -97.3321,
+    "description": "Souvenir penny machine near shops and attractions.",
+    "tags": ["historic", "Texas"],
+    "state": "TX",
+    "photo": "https://example.com/photos/fort_worth_stockyards.jpg"
+  },
+  {
+    "name": "Houston Space Center",
+    "lat": 29.5502,
+    "lng": -95.097,
+    "description": "Penny press machines near exhibits.",
+    "tags": ["Houston", "space", "museum"],
+    "state": "TX",
+    "photo": "https://example.com/photos/houston_space_center.jpg"
+  },
+    {
+    "name": "San Antonio Botanical Garden",
+    "lat": 29.4624,
+    "lng": -98.4528,
+    "description": "Machine near the garden entrance.",
+    "tags": ["botanical garden", "Texas"],
+    "state": "TX",
+    "photo": "https://example.com/photos/san_antonio_botanical.jpg"
+  },
+  {
+    "name": "San Antonio River Walk",
+    "lat": 29.4241,
+    "lng": -98.4936,
+    "description": "Pressed penny machine near riverside shops and restaurants.",
+    "tags": ["Texas", "tourist", "river walk"],
+    "state": "TX",
+    "photo": "https://example.com/photos/san_antonio_river_walk.jpg"
+  },
+  {
+    "name": "Houston Museum of Natural Science",
+    "lat": 29.7216,
+    "lng": -95.3899,
+    "description": "Machine located near the dinosaur exhibit.",
+    "tags": ["museum", "Houston", "science"],
+    "state": "TX",
+    "photo": "https://example.com/photos/houston_museum_natural_science.jpg"
+  },
+  {
+    "name": "South Padre Island Beach",
+    "lat": 26.1076,
+    "lng": -97.1603,
+    "description": "Penny press machine near beachfront gift shops.",
+    "tags": ["beach", "Texas"],
+    "state": "TX",
+    "photo": "https://example.com/photos/south_padre_island.jpg"
+  },
+  {
+    "name": "The Alamo",
+    "lat": 29.4259,
+    "lng": -98.4861,
+    "description": "Pressed penny machine near the gift shop.",
+    "tags": ["historic", "Texas", "tourist"],
+    "state": "TX",
+    "photo": "https://example.com/photos/the_alamo.jpg"
+  }
+
+]

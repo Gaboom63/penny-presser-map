@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Mount Rushmore National Memorial",
+    "lat": 43.8791,
+    "lng": -103.4591,
+    "description": "Located inside the gift shop.",
+    "tags": ["South Dakota", "historic"],
+    "state": "SD",
+    "photo": "https://example.com/photos/mount_rushmore.jpg"
+  }
+]

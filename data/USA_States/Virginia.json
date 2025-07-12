@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Mount Vernon – George Washington’s Estate",
+    "lat": 38.7071,
+    "lng": -77.0868,
+    "description": "Machine inside gift shop.",
+    "tags": ["historic", "Virginia"],
+    "state": "VA",
+    "photo": "https://example.com/photos/mount_vernon.jpg"
+  }
+]
