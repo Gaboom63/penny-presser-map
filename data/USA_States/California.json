@@ -142,6 +142,97 @@
     "tags": ["Los Angeles", "museum", "art"],
     "state": "CA",
     "photo": "https://example.com/photos/getty_center.jpg"
+  },
+  {
+    "name": "Disneyland Park – Main Street Penny Arcade",
+    "lat": 33.8121,
+    "lng": -117.9190,
+    "description": "Pressed penny machines located inside the Candy Palace on Main Street, offering designs featuring classic Disney characters.",
+    "tags": ["Disney", "theme-park", "California"],
+    "state": "CA",
+    "photo": "https://example.com/photos/disneyland_mainstreet.jpg"
+  },
+  {
+    "name": "Disney California Adventure – Elias & Co.",
+    "lat": 33.8083,
+    "lng": -117.9190,
+    "description": "Pressed penny machine located inside Elias & Co. store, featuring designs from Pixar and Marvel franchises.",
+    "tags": ["Disney", "theme-park", "California"],
+    "state": "CA",
+    "photo": "https://example.com/photos/eliasshop.jpg"
+  },
+  {
+    "name": "Fisherman's Wharf – Musée Mécanique",
+    "lat": 37.8050,
+    "lng": -122.4210,
+    "description": "Pressed penny machines located within the Musée Mécanique, a museum of antique arcade machines.",
+    "tags": ["museum", "San Francisco", "tourist"],
+    "state": "CA",
+    "photo": "https://example.com/photos/museemecanique.jpg"
+  },
+  {
+    "name": "Pier 39 – San Francisco",
+    "lat": 37.8087,
+    "lng": -122.4098,
+    "description": "Pressed penny machines located near shops and restaurants, offering designs of local landmarks.",
+    "tags": ["San Francisco", "tourist", "landmarks"],
+    "state": "CA",
+    "photo": "https://example.com/photos/pier39.jpg"
+  },
+  {
+    "name": "Knott's Berry Farm",
+    "lat": 33.9976,
+    "lng": -117.9981,
+    "description": "Pressed penny machines located throughout the park, featuring designs related to the park's history and attractions.",
+    "tags": ["theme-park", "California", "family-friendly"],
+    "state": "CA",
+    "photo": "https://example.com/photos/knottsberryfarm.jpg"
+  },
+  {
+    "name": "Universal Studios Hollywood",
+    "lat": 34.1381,
+    "lng": -118.3534,
+    "description": "Pressed penny machines located near the entrance and themed stores, offering designs from popular movies.",
+    "tags": ["theme-park", "California", "movies"],
+    "state": "CA",
+    "photo": "https://example.com/photos/universalstudios.jpg"
+  },
+  {
+    "name": "San Diego Zoo",
+    "lat": 32.7353,
+    "lng": -117.1490,
+    "description": "Multiple pressed penny machines located throughout the zoo, featuring designs of various animal species.",
+    "tags": ["zoo", "San Diego", "animals"],
+    "state": "CA",
+    "photo": "https://example.com/photos/sandiegozoo.jpg"
+  },
+  {
+    "name": "SeaWorld San Diego",
+    "lat": 32.7648,
+    "lng": -117.2266,
+    "description": "Pressed penny machines located throughout the park, offering designs related to marine life and attractions.",
+    "tags": ["theme-park", "San Diego", "marine life"],
+    "state": "CA",
+    "photo": "https://example.com/photos/seaworldsandiego.jpg"
+  },
+  {
+    "name": "Santa Monica Pier",
+    "lat": 34.0094,
+    "lng": -118.4973,
+    "description": "Pressed penny machines located near souvenir shops, featuring designs of local landmarks and attractions.",
+    "tags": ["beach", "Santa Monica", "tourist"],
+    "state": "CA",
+    "photo": "https://example.com/photos/santamonicapier.jpg"
+  },
+  {
+    "name": "Old Town San Diego",
+    "lat": 32.7542,
+    "lng": -117.1942,
+    "description": "Pressed penny machines located along the main stretch of Old Town, offering designs related to San Diego's history.",
+    "tags": ["historic district", "San Diego", "tourist"],
+    "state": "CA",
+    "photo": "https://example.com/photos/oldtownsandiego.jpg"
   }
+
 
 ]

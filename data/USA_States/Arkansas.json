@@ -1,1 +1,47 @@
-{"state": "Arkansas"}
+[
+  {
+    "name": "Hot Springs National Park",
+    "lat": 34.5147,
+    "lng": -93.0541,
+    "description": "Pressed penny machine located near Bathhouse Row, featuring designs related to the park's history and thermal springs.",
+    "tags": ["national park", "historic district", "thermal springs"],
+    "state": "AR",
+    "photo": "https://pennypresses.com/products/pressed-penny-hot-springs-arkansas"
+  },
+  {
+    "name": "Razorback White Oak Travel Center",
+    "lat": 35.4700,
+    "lng": -93.7670,
+    "description": "Pressed penny set available at the travel center, showcasing designs inspired by the Razorback mascot and local landmarks.",
+    "tags": ["travel center", "souvenir", "local landmarks"],
+    "state": "AR",
+    "photo": "https://www.ebay.com/itm/156762407494"
+  },
+  {
+    "name": "Arkansas Diamond Mine",
+    "lat": 33.6733,
+    "lng": -93.6700,
+    "description": "Pressed penny machine located at the Crater of Diamonds State Park, featuring designs related to diamond mining and geology.",
+    "tags": ["state park", "diamond mining", "geology"],
+    "state": "AR",
+    "photo": "https://example.com/photos/arkansas_diamond_mine.jpg"
+  },
+  {
+    "name": "Little Rock Zoo",
+    "lat": 34.7460,
+    "lng": -92.2967,
+    "description": "Pressed penny machine located near the zoo entrance, offering designs featuring various animal species.",
+    "tags": ["zoo", "animals", "family-friendly"],
+    "state": "AR",
+    "photo": "https://example.com/photos/little_rock_zoo.jpg"
+  },
+  {
+    "name": "Eureka Springs & North Arkansas Railway",
+    "lat": 36.4069,
+    "lng": -93.7367,
+    "description": "Pressed penny machine available at the railway station, featuring designs related to the historic train and local scenery.",
+    "tags": ["railway", "historic site", "scenic views"],
+    "state": "AR",
+    "photo": "https://example.com/photos/eureka_springs_railway.jpg"
+  }
+]

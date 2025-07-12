@@ -1,1 +1,38 @@
-{"state": "Alabama"}
+[
+  {
+    "name": "Gulf State Park Camp Store Penny Press",
+    "lat": 30.3195,
+    "lng": -87.7006,
+    "description": "4‑design hand‑crank penny press located inside the camp store pavilion at Gulf State Park.",
+    "tags": ["camp store", "4‑design", "paid"],
+    "state": "AL",
+    "photo": ""
+  },
+  {
+    "name": "Gulf Shores Souvenirs & Gifts – Machine 1",
+    "lat": 30.2695,
+    "lng": -87.6972,
+    "description": "4‑die machine near entrance; designs include Octopus, Seahorse/Sun/Starfish, “I Love You”, Dolphins – all labeled 'Gulf Shores, Alabama'.",
+    "tags": ["souvenir shop", "4‑design"],
+    "state": "AL",
+    "photo": ""
+  },
+  {
+    "name": "Gulf Shores Souvenirs & Gifts – Machine 2",
+    "lat": 30.2695,
+    "lng": -87.6972,
+    "description": "Second 4‑die machine next to the first; includes Shark, Dolphin (Orange Beach), I Love You hearts, Hug & Kiss hearts designs.",
+    "tags": ["souvenir shop", "4‑design"],
+    "state": "AL",
+    "photo": ""
+  },
+  {
+    "name": "Robertsdale Store Penny Press",
+    "lat": 30.6000,
+    "lng": -87.7167,
+    "description": "Penny press near front of store in Robertsdale, AL.",
+    "tags": ["store", "hand‑crank"],
+    "state": "AL",
+    "photo": ""
+  }
+]

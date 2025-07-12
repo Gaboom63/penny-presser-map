@@ -1,1 +1,74 @@
-{"state": "Arizona"}
+[
+  {
+    "name": "Arizona Capitol Museum",
+    "lat": 33.4484,
+    "lng": -112.0740,
+    "description": "Indoor machine near the gift shop at the museum; 3 designs available.",
+    "tags": ["museum", "3‑design"],
+    "state": "AZ",
+    "photo": ""
+  },
+  {
+    "name": "Wildlife World Zoo & Aquarium",
+    "lat": 33.4358,
+    "lng": -112.3332,
+    "description": "Two machines at the main entrance gift shop—one with aquarium animals, one with desert animals; total of 8 designs.",
+    "tags": ["zoo", "aquarium", "multi‑machine"],
+    "state": "AZ",
+    "photo": ""
+  },
+  {
+    "name": "Williams & Forest Service Visitor Center",
+    "lat": 35.2497,
+    "lng": -112.1890,
+    "description": "4‑design machine in the historic railway‑station visitor center in Williams.",
+    "tags": ["visitor center", "4‑design", "railroad"],
+    "state": "AZ",
+    "photo": ""
+  },
+  {
+    "name": "Route 66 Museum (Kingman)",
+    "lat": 35.1894,
+    "lng": -114.0530,
+    "description": "4‑design press in the gift shop featuring Route 66 themed designs; includes complimentary pennies.",
+    "tags": ["museum", "4‑design", "Route 66"],
+    "state": "AZ",
+    "photo": ""
+  },
+  {
+    "name": "Antelope Canyon Tours, Inc.",
+    "lat": 36.9147,
+    "lng": -111.4553,
+    "description": "4‑design machine inside the gift shop—designs include Antelope Canyon, Horseshoe Bend, Lake Powell, Rainbow Bridge.",
+    "tags": ["tour gift shop", "4‑design"],
+    "state": "AZ",
+    "photo": ""
+  },
+  {
+    "name": "Grand Canyon Railway RV Park",
+    "lat": 35.2503,
+    "lng": -112.1911,
+    "description": "4‑design hand‑crank machine in foyer of check‑in office/store; historic railroad and Route 66 artwork.",
+    "tags": ["RV park", "4‑design", "railroad"],
+    "state": "AZ",
+    "photo": ""
+  },
+  {
+    "name": "Jerome State Historic Park",
+    "lat": 34.7483,
+    "lng": -112.1116,
+    "description": "Machine located in the park gift shop in Jerome (may be currently out of order).",
+    "tags": ["historic park", "indoor"],
+    "state": "AZ",
+    "photo": ""
+  },
+  {
+    "name": "Flagstaff Visitor Center",
+    "lat": 35.1984,
+    "lng": -111.6513,
+    "description": "Pressed‑penny machine at the visitor center on historic Route 66.",
+    "tags": ["visitor center", "Route 66"],
+    "state": "AZ",
+    "photo": ""
+  }
+]

@@ -1,11 +1,92 @@
 [
   {
     "name": "Alaska SeaLife Center",
-    "lat": 60.7426,
-    "lng": -147.0524,
+    "lat": 60.1048,
+    "lng": -149.4421,
     "description": "Pressed penny machine near aquarium exhibits.",
     "tags": ["aquarium", "Alaska"],
     "state": "AK",
     "photo": "https://example.com/photos/alaska_sealife.jpg"
+  },
+  {
+    "name": "Alaska Zoo",
+    "lat": 61.1559,
+    "lng": -149.7449,
+    "description": "Hand‑crank penny press added in 2005 featuring bear, leopard, moose and tiger head designs.",
+    "tags": ["zoo", "4‑design", "hand‑crank"],
+    "state": "AK",
+    "photo": ""
+  },
+  {
+    "name": "Alaska Mint Company",
+    "lat": 61.2190,
+    "lng": -149.8941,
+    "description": "Machine inside mint entrance with eagle, grizzly bear, and moose track designs.",
+    "tags": ["mint", "3‑design", "indoor"],
+    "state": "AK",
+    "photo": ""
+  },
+  {
+    "name": "Cabela’s Anchorage",
+    "lat": 61.1581,
+    "lng": -149.9286,
+    "description": "4‑design hand‑crank inside the large outdoors/hunting store featuring logo, mule deer, elk, bear.",
+    "tags": ["retail", "4‑design"],
+    "state": "AK",
+    "photo": ""
+  },
+  {
+    "name": "Fairbanks Railroad Station",
+    "lat": 64.8354,
+    "lng": -147.6150,
+    "description": "Single‑design penny press located at the train depot.",
+    "tags": ["railroad", "single‑design"],
+    "state": "AK",
+    "photo": ""
+  },
+  {
+    "name": "Denali Park Village",
+    "lat": 63.7326,
+    "lng": -149.0054,
+    "description": "4‑design machine at visitor village near Denali National Park.",
+    "tags": ["visitor center", "4‑design"],
+    "state": "AK",
+    "photo": ""
+  },
+  {
+    "name": "Alaska Shirt Company – Juneau",
+    "lat": 58.3019,
+    "lng": -134.4197,
+    "description": "Two machines inside shirt shop offering 5 designs each, total 10 designs.",
+    "tags": ["retail", "multi‑machine"],
+    "state": "AK",
+    "photo": ""
+  },
+  {
+    "name": "Red Dog Saloon – Juneau",
+    "lat": 58.3017,
+    "lng": -134.4169,
+    "description": "4‑design hand‑crank machine just outside gift shop entrance — sled dog team, donkey joke, duck, saloon doors.",
+    "tags": ["saloon", "4‑design", "hand‑crank"],
+    "state": "AK",
+    "photo": ""
+  },
+  {
+    "name": "Ketchikan Mining Co",
+    "lat": 55.3422,
+    "lng": -131.6476,
+    "description": "Pressed‑penny machine located at Front Street in Ketchikan mining souvenir shop.",
+    "tags": ["souvenir shop", "mining", "pressed penny"],
+    "state": "AK",
+    "photo": ""
+  },
+  {
+    "name": "Skagway – Glacier Bay Trading / Kone Kompany",
+    "lat": 59.4581,
+    "lng": -135.3136,
+    "description": "Pressed‑penny machines located in shops like Glacier Bay Trading and Kone Kompany on Broadway.",
+    "tags": ["retail", "tourist", "multi‑location"],
+    "state": "AK",
+    "photo": ""
   }
 ]

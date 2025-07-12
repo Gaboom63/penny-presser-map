@@ -16,5 +16,51 @@
     "tags": ["museum", "Denver"],
     "state": "CO",
     "photo": "https://example.com/photos/denver_museum_nature_science.jpg"
+  },
+    {
+    "name": "Cheyenne Mountain Zoo",
+    "lat": 38.8582,
+    "lng": -104.8762,
+    "description": "Pressed penny machines located throughout the zoo, featuring designs of various animal species.",
+    "tags": ["zoo", "Colorado Springs", "animals"],
+    "state": "CO",
+    "photo": "https://example.com/photos/cheyenne_mountain_zoo.jpg"
+  },
+  {
+    "name": "Colorado Springs Pioneers Museum",
+    "lat": 38.8343,
+    "lng": -104.8202,
+    "description": "Pressed penny machine located inside the museum, featuring designs related to local history.",
+    "tags": ["museum", "Colorado Springs", "history"],
+    "state": "CO",
+    "photo": "https://example.com/photos/colorado_springs_pioneers_museum.jpg"
+  },
+  {
+    "name": "Pikes Peak Summit House",
+    "lat": 38.8400,
+    "lng": -105.0422,
+    "description": "Pressed penny machines located at the summit, featuring designs of Pikes Peak and surrounding areas.",
+    "tags": ["mountain", "Colorado Springs", "landmarks"],
+    "state": "CO",
+    "photo": "https://example.com/photos/pikes_peak_summit_house.jpg"
+  },
+  {
+    "name": "Western Museum of Mining & Industry",
+    "lat": 38.9783,
+    "lng": -104.8194,
+    "description": "Pressed penny machine located inside the museum, featuring designs related to mining history.",
+    "tags": ["museum", "Colorado Springs", "mining history"],
+    "state": "CO",
+    "photo": "https://example.com/photos/western_museum_of_mining_industry.jpg"
+  },
+  {
+    "name": "Buffalo Bill Museum & Grave",
+    "lat": 39.7395,
+    "lng": -105.2950,
+    "description": "Pressed penny machines located inside the museum, featuring designs of Buffalo Bill and local wildlife.",
+    "tags": ["museum", "Golden", "history"],
+    "state": "CO",
+    "photo": "https://example.com/photos/buffalo_bill_museum_grave.jpg"
   }
+
 ]

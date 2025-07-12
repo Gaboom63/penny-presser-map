@@ -1,1 +1,45 @@
-{"state": "Connecticut"}
+  {
+    "name": "Mystic Seaport Museum",
+    "lat": 41.3556,
+    "lng": -71.9614,
+    "description": "Pressed penny machines located throughout the maritime museum, featuring designs of historic ships and seafaring life.",
+    "tags": ["museum", "maritime", "Mystic"],
+    "state": "CT",
+    "photo": "https://example.com/photos/mystic_seaport.jpg"
+  },
+  {
+    "name": "Connecticut Science Center",
+    "lat": 41.7658,
+    "lng": -72.6851,
+    "description": "Pressed penny machine located near the gift shop, featuring science and technology-themed designs.",
+    "tags": ["museum", "science", "Hartford"],
+    "state": "CT",
+    "photo": "https://example.com/photos/ct_science_center.jpg"
+  },
+  {
+    "name": "Mark Twain House & Museum",
+    "lat": 41.7665,
+    "lng": -72.6761,
+    "description": "Machine located inside the museum gift shop, with designs related to Mark Twain and his works.",
+    "tags": ["museum", "literature", "Hartford"],
+    "state": "CT",
+    "photo": "https://example.com/photos/mark_twain_house.jpg"
+  },
+  {
+    "name": "Gillette Castle State Park",
+    "lat": 41.3714,
+    "lng": -72.1787,
+    "description": "Pressed penny machine located near the visitor center, featuring designs inspired by the castle and park.",
+    "tags": ["state park", "historic", "East Haddam"],
+    "state": "CT",
+    "photo": "https://example.com/photos/gillette_castle.jpg"
+  },
+  {
+    "name": "Yale Peabody Museum of Natural History",
+    "lat": 41.3163,
+    "lng": -72.9223,
+    "description": "Pressed penny machine located near the gift shop, featuring designs of fossils and natural history exhibits.",
+    "tags": ["museum", "natural history", "New Haven"],
+    "state": "CT",
+    "photo": "https://example.com/photos/yale_peabody.jpg"
+  }
