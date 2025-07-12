@@ -7,5 +7,32 @@
     "tags": ["mall", "Rhode Island"],
     "state": "RI",
     "photo": "https://example.com/photos/providence_place_mall.jpg"
+  },
+  {
+    "name": "Roger Williams Park Zoo",
+    "lat": 41.8064,
+    "lng": -71.4370,
+    "description": "Penny press machine near the main entrance.",
+    "tags": ["zoo", "Providence", "family"],
+    "state": "RI",
+    "photo": "https://www.rwpzoo.org/sites/default/files/roger-williams-park-zoo-logo.png"
+  },
+  {
+    "name": "RISD Museum",
+    "lat": 41.8269,
+    "lng": -71.4026,
+    "description": "Penny press machine located near the museum gift shop.",
+    "tags": ["museum", "art", "Providence"],
+    "state": "RI",
+    "photo": "https://risdmuseum.org/sites/default/files/risd-museum-logo.png"
+  },
+  {
+    "name": "Newport Mansions",
+    "lat": 41.4861,
+    "lng": -71.3112,
+    "description": "Penny press machines available in gift shops at various mansions.",
+    "tags": ["historic", "Newport", "tourist"],
+    "state": "RI",
+    "photo": "https://www.newportmansions.org/images/logo.png"
   }
 ]

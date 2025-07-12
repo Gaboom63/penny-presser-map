@@ -1,5 +1,23 @@
 [
   {
+    "name": "Pike Place Market",
+    "lat": 47.6101,
+    "lng": -122.3421,
+    "description": "Machine near market stalls and shops.",
+    "tags": ["Seattle", "market", "tourist"],
+    "state": "WA",
+    "photo": "https://example.com/photos/pike_place_market.jpg"
+  },
+  {
+    "name": "Seattle Aquarium",
+    "lat": 47.6074,
+    "lng": -122.3425,
+    "description": "Machine near the entrance.",
+    "tags": ["aquarium", "Seattle"],
+    "state": "WA",
+    "photo": "https://example.com/photos/seattle_aquarium.jpg"
+  },
+    {
     "name": "Smithsonian National Zoo",
     "lat": 38.9296,
     "lng": -77.0498,
@@ -34,25 +52,6 @@
     "tags": ["Washington DC", "historic"],
     "state": "DC",
     "photo": "https://example.com/photos/washington_monument.jpg"
-  },
-    {
-    "name": "Pike Place Market",
-    "lat": 47.6101,
-    "lng": -122.3421,
-    "description": "Machine near market stalls and shops.",
-    "tags": ["Seattle", "market", "tourist"],
-    "state": "WA",
-    "photo": "https://example.com/photos/pike_place_market.jpg"
-  },
-  {
-    "name": "Seattle Aquarium",
-    "lat": 47.6074,
-    "lng": -122.3425,
-    "description": "Machine near the entrance.",
-    "tags": ["aquarium", "Seattle"],
-    "state": "WA",
-    "photo": "https://example.com/photos/seattle_aquarium.jpg"
   }
-
-
 ]
+

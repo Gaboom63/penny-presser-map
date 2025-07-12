@@ -1,1 +1,29 @@
-{"state": "Kansas"}
+[
+  {
+    "name": "Union Station – Kansas City, MO (service area includes KS side)",
+    "lat": 39.0465,
+    "lng": -94.5808,
+    "description": "Pressed‑penny machine located across from the Science City entrance near the Rocky Mountain Chocolate Factory.",
+    "tags": ["museum", "Science City", "4‑design"],
+    "state": "KS/MO",
+    "photo": ""
+  },
+  {
+    "name": "Deanna Rose Children’s Farmstead – Overland Park, KS",
+    "lat": 38.9807,
+    "lng": -94.6525,
+    "description": "Seasonal penny press located outside the general store for kids visiting the farmstead.",
+    "tags": ["family", "farmstead", "seasonal"],
+    "state": "KS",
+    "photo": ""
+  },
+  {
+    "name": "Topeka Zoo",
+    "lat": 39.0339,
+    "lng": -95.6743,
+    "description": "Pressed‑penny machine located by the giraffe exhibit; charges about $5 for six designs.",
+    "tags": ["zoo", "4‑design"],
+    "state": "KS",
+    "photo": ""
+  }
+]

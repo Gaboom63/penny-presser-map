@@ -1,1 +1,38 @@
-{"state": "Utah"}
+[
+  {
+    "name": "Temple Square",
+    "lat": 40.7700,
+    "lng": -111.8910,
+    "description": "Penny press machine near the visitor center gift shop.",
+    "tags": ["Salt Lake City", "historic", "tourist"],
+    "state": "UT",
+    "photo": "https://example.com/photos/temple_square.jpg"
+  },
+  {
+    "name": "Utah State Capitol",
+    "lat": 40.7769,
+    "lng": -111.8882,
+    "description": "Penny press machine located inside the Capitol building.",
+    "tags": ["Salt Lake City", "government", "historic"],
+    "state": "UT",
+    "photo": "https://example.com/photos/utah_state_capitol.jpg"
+  },
+  {
+    "name": "Natural History Museum of Utah",
+    "lat": 40.7673,
+    "lng": -111.8479,
+    "description": "Penny press machine near the museum entrance gift shop.",
+    "tags": ["museum", "Salt Lake City", "science"],
+    "state": "UT",
+    "photo": "https://nhmu.utah.edu/sites/default/files/nhmu_logo.png"
+  },
+  {
+    "name": "Park City Main Street",
+    "lat": 40.6461,
+    "lng": -111.4980,
+    "description": "Penny press machine near shops along Main Street.",
+    "tags": ["Park City", "tourist", "shopping"],
+    "state": "UT",
+    "photo": "https://example.com/photos/park_city_main_street.jpg"
+  }
+]

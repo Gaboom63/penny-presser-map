@@ -1,1 +1,29 @@
-{"state": "Wyoming"}
+[
+  {
+    "name": "Yellowstone National Park",
+    "lat": 44.4280,
+    "lng": -110.5885,
+    "description": "Multiple penny press machines at visitor centers throughout the park.",
+    "tags": ["national park", "Wyoming", "tourist"],
+    "state": "WY",
+    "photo": "https://example.com/photos/yellowstone.jpg"
+  },
+  {
+    "name": "Grand Teton National Park",
+    "lat": 43.7904,
+    "lng": -110.6818,
+    "description": "Penny press machine near the Craig Thomas Discovery and Visitor Center.",
+    "tags": ["national park", "Wyoming", "nature"],
+    "state": "WY",
+    "photo": "https://example.com/photos/grand_teton.jpg"
+  },
+  {
+    "name": "Buffalo Bill Center of the West",
+    "lat": 44.3769,
+    "lng": -109.2233,
+    "description": "Machine located in the gift shop of this museum complex in Cody.",
+    "tags": ["museum", "Wyoming", "historic"],
+    "state": "WY",
+    "photo": "https://example.com/photos/buffalo_bill_center.jpg"
+  }
+]

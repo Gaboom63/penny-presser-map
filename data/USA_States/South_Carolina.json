@@ -17,32 +17,22 @@
     "state": "SC",
     "photo": "https://example.com/photos/charleston_historic.jpg"
   },
-    {
-    "name": "Cincinnati Zoo & Botanical Garden",
-    "lat": 39.1338,
-    "lng": -84.5161,
-    "description": "Machine near the gift shop.",
-    "tags": ["zoo", "Ohio"],
-    "state": "OH",
-    "photo": "https://example.com/photos/cincinnati_zoo.jpg"
+  {
+    "name": "South Carolina Aquarium",
+    "lat": 32.7834,
+    "lng": -79.9347,
+    "description": "Penny press machine near the entrance gift shop.",
+    "tags": ["aquarium", "family", "Charleston"],
+    "state": "SC",
+    "photo": "https://www.scaquarium.org/sites/default/files/scaq-logo.png"
   },
   {
-    "name": "Kings Island Amusement Park",
-    "lat": 39.3501,
-    "lng": -84.3123,
-    "description": "Multiple penny press machines throughout the park.",
-    "tags": ["theme-park", "Ohio"],
-    "state": "OH",
-    "photo": "https://example.com/photos/kings_island.jpg"
-  },
-  {
-    "name": "Cedar Point Amusement Park",
-    "lat": 41.4822,
-    "lng": -82.6831,
-    "description": "Multiple penny press machines throughout the park.",
-    "tags": ["Ohio", "theme-park"],
-    "state": "OH",
-    "photo": "https://example.com/photos/cedar_point.jpg"
+    "name": "Brookgreen Gardens",
+    "lat": 33.5380,
+    "lng": -79.0416,
+    "description": "Penny press machine available at the visitor center.",
+    "tags": ["garden", "art", "Murrells Inlet"],
+    "state": "SC",
+    "photo": "https://www.brookgreen.org/sites/default/files/brookgreen-logo.png"
   }
-
 ]

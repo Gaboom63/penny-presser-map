@@ -3,8 +3,8 @@
     "name": "Indianapolis Zoo",
     "lat": 39.7684,
     "lng": -86.1566,
-    "description": "Machine near the dolphin exhibit.",
-    "tags": ["zoo", "Indiana"],
+    "description": "Multiple machines near the dolphin dome, oceans, plains and gift shop—each with 4‑design sets featuring animal themes.",
+    "tags": ["zoo", "Indiana", "multiple‑machine"],
     "state": "IN",
     "photo": "https://example.com/photos/indianapolis_zoo.jpg"
   },
@@ -12,18 +12,63 @@
     "name": "The Children's Museum of Indianapolis",
     "lat": 39.7782,
     "lng": -86.1459,
-    "description": "Machine near entrance.",
-    "tags": ["museum", "Indiana"],
+    "description": "12‑design penny press near entrance, in the world’s largest children’s museum.",
+    "tags": ["museum", "Indiana", "multi‑design"],
     "state": "IN",
     "photo": "https://example.com/photos/childrens_museum_indianapolis.jpg"
+  },
+  {
+    "name": "Indiana State Museum",
+    "lat": 39.7687,
+    "lng": -86.1574,
+    "description": "4‑design machine by the IMAX theatre & gift shop near parking garage exits.",
+    "tags": ["museum", "Indiana", "4‑design"],
+    "state": "IN",
+    "photo": ""
   },
   {
     "name": "Indianapolis Motor Speedway",
     "lat": 39.7953,
     "lng": -86.2389,
-    "description": "Pressed penny machine in gift shop.",
-    "tags": ["sports", "Indiana"],
+    "description": "Pressed‑penny machine inside the gift shop featuring racing-themed designs.",
+    "tags": ["sports", "Indiana", "motorsport"],
     "state": "IN",
     "photo": "https://example.com/photos/indianapolis_motor_speedway.jpg"
+  },
+  {
+    "name": "Indiana Dunes Visitor Center",
+    "lat": 41.6535,
+    "lng": -87.0525,
+    "description": "5‑design penny press inside the visitor center—beach, dunes, lighthouses, wildlife.",
+    "tags": ["national park", "visitor center", "5‑design"],
+    "state": "IN",
+    "photo": ""
+  },
+  {
+    "name": "Indiana Beach (Monticello)",
+    "lat": 40.7625,
+    "lng": -86.7568,
+    "description": "4‑design machine at the amusement park, works as of June 2024.",
+    "tags": ["amusement park", "Indiana", "4‑design"],
+    "state": "IN",
+    "photo": ""
+  },
+  {
+    "name": "Indiana Historical Society",
+    "lat": 39.7675,
+    "lng": -86.1596,
+    "description": "4‑design penny press inside the historical society building.",
+    "tags": ["museum", "history", "4‑design"],
+    "state": "IN",
+    "photo": ""
+  },
+  {
+    "name": "Museum of North Idaho (Coeur d'Alene)",
+    "lat": 47.6777,
+    "lng": -116.7805,
+    "description": "...",
+    "tags": ["ID"],
+    "state": "ID",
+    "photo": ""
   }
 ]

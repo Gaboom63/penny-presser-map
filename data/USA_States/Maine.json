@@ -1,1 +1,38 @@
-{"state": "Maine"}
+[
+  {
+    "name": "Old Orchard Beach Pier",
+    "lat": 43.5123,
+    "lng": -70.3706,
+    "description": "Pressed penny machine near the entrance to the pier amusement area.",
+    "tags": ["amusement", "beach", "Old Orchard Beach"],
+    "state": "ME",
+    "photo": ""
+  },
+  {
+    "name": "Portland Head Light",
+    "lat": 43.6234,
+    "lng": -70.2083,
+    "description": "Souvenir penny press machine at the lighthouse visitor center gift shop.",
+    "tags": ["lighthouse", "historic", "Portland"],
+    "state": "ME",
+    "photo": ""
+  },
+  {
+    "name": "Maine State Museum",
+    "lat": 44.3158,
+    "lng": -69.7795,
+    "description": "Pressed penny machine inside the museum gift shop in Augusta.",
+    "tags": ["museum", "Augusta", "state museum"],
+    "state": "ME",
+    "photo": ""
+  },
+  {
+    "name": "Kennebunkport Visitor Center",
+    "lat": 43.3673,
+    "lng": -70.4846,
+    "description": "Penny press machine at the visitor center with local themed designs.",
+    "tags": ["visitor center", "Kennebunkport"],
+    "state": "ME",
+    "photo": ""
+  }
+]

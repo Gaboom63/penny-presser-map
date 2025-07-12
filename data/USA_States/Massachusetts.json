@@ -16,5 +16,41 @@
     "tags": ["Boston", "museum", "children"],
     "state": "MA",
     "photo": "https://example.com/photos/boston_childrens_museum.jpg"
+  },
+  {
+    "name": "New England Aquarium",
+    "lat": 42.3590,
+    "lng": -71.0496,
+    "description": "Penny press machine near the entrance and gift shop.",
+    "tags": ["aquarium", "Boston"],
+    "state": "MA",
+    "photo": ""
+  },
+  {
+    "name": "Plimoth Patuxet Museums",
+    "lat": 41.9584,
+    "lng": -70.6641,
+    "description": "Pressed penny machine near the visitor center at the historic Plymouth settlement.",
+    "tags": ["historic", "museum", "Plymouth"],
+    "state": "MA",
+    "photo": ""
+  },
+  {
+    "name": "The Freedom Trail Visitor Center",
+    "lat": 42.3601,
+    "lng": -71.0568,
+    "description": "Souvenir penny machine near the visitor center along the Freedom Trail.",
+    "tags": ["historic", "Boston", "visitor center"],
+    "state": "MA",
+    "photo": ""
+  },
+  {
+    "name": "Old Sturbridge Village",
+    "lat": 42.0872,
+    "lng": -72.0749,
+    "description": "Penny press machine located in the village gift shop featuring colonial-era designs.",
+    "tags": ["historic", "village", "museum"],
+    "state": "MA",
+    "photo": ""
   }
 ]

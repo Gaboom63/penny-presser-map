@@ -7,5 +7,86 @@
     "tags": ["mall", "Georgia"],
     "state": "GA",
     "photo": "https://example.com/photos/mall_of_georgia.jpg"
+  },
+  {
+    "name": "Georgia Visitor Information Center – Ringgold (I‑75)",
+    "lat": 34.9180,
+    "lng": -85.1235,
+    "description": "4‑design press inside lobby of I‑75 rest area, featuring Georgia‑themed designs.",
+    "tags": ["rest area", "visitor center", "4‑design"],
+    "state": "GA",
+    "photo": ""
+  },
+  {
+    "name": "Georgia Welcome Center – Lavonia (I‑85)",
+    "lat": 34.4979,
+    "lng": -82.8180,
+    "description": "4‑design penny press in welcome center lobby on I‑85.",
+    "tags": ["visitor center", "interstate", "4‑design"],
+    "state": "GA",
+    "photo": ""
+  },
+  {
+    "name": "Georgia Welcome Center Southbound – Port Wentworth (I‑95)",
+    "lat": 32.1526,
+    "lng": -81.2120,
+    "description": "4‑design machine in southbound I‑95 welcome center; 'Georgia on my mind' theme.",
+    "tags": ["visitor center", "interstate", "4‑design"],
+    "state": "GA",
+    "photo": ""
+  },
+  {
+    "name": "Georgia Visitor Information Center – Augusta",
+    "lat": 33.4740,
+    "lng": -82.0105,
+    "description": "4‑design press featuring GA state, peach, coastal and ‘Georgia on My Mind’ designs.",
+    "tags": ["visitor center", "tourist", "4‑design"],
+    "state": "GA",
+    "photo": ""
+  },
+  {
+    "name": "Six Flags Over Georgia",
+    "lat": 33.7935,
+    "lng": -84.5663,
+    "description": "Two machines at park entrance, each offering 4‑design sets.",
+    "tags": ["theme-park", "family", "4‑design"],
+    "state": "GA",
+    "photo": ""
+  },
+  {
+    "name": "Cloudland Canyon State Park",
+    "lat": 34.8785,
+    "lng": -85.3625,
+    "description": "4‑design penny press located at park visitor center in Rising Fawn.",
+    "tags": ["state park", "nature", "4‑design"],
+    "state": "GA",
+    "photo": ""
+  },
+  {
+    "name": "Waves Beach Wear Surf & Gifts – Tybee Island",
+    "lat": 32.0112,
+    "lng": -80.8718,
+    "description": "4‑design machine outside store: Good Luck, Tybee Lighthouse, Shark, Dolphins.",
+    "tags": ["beach", "souvenir", "4‑design"],
+    "state": "GA",
+    "photo": ""
+  },
+  {
+    "name": "River Street Sweets – Savannah",
+    "lat": 32.0754,
+    "lng": -81.0912,
+    "description": "4‑design penny press in candy store on River Street, near entrance/exit.",
+    "tags": ["souvenir shop", "tourist", "4‑design"],
+    "state": "GA",
+    "photo": ""
+  },
+  {
+    "name": "Relish (The Big Oak) – Thomasville",
+    "lat": 30.8369,
+    "lng": -83.9784,
+    "description": "Single‑design machine inside front entrance featuring the historic Big Oak tree.",
+    "tags": ["souvenir shop", "historic", "single‑design"],
+    "state": "GA",
+    "photo": ""
   }
 ]

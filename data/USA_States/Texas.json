@@ -12,8 +12,8 @@
     "name": "The Alamo",
     "lat": 29.4259,
     "lng": -98.4861,
-    "description": "Pressed penny machine near gift shop.",
-    "tags": ["historic", "Texas"],
+    "description": "Pressed penny machine near the gift shop.",
+    "tags": ["historic", "Texas", "tourist"],
     "state": "TX",
     "photo": "https://example.com/photos/the_alamo.jpg"
   },
@@ -35,7 +35,7 @@
     "state": "TX",
     "photo": "https://example.com/photos/houston_space_center.jpg"
   },
-    {
+  {
     "name": "San Antonio Botanical Garden",
     "lat": 29.4624,
     "lng": -98.4528,
@@ -43,15 +43,6 @@
     "tags": ["botanical garden", "Texas"],
     "state": "TX",
     "photo": "https://example.com/photos/san_antonio_botanical.jpg"
-  },
-  {
-    "name": "San Antonio River Walk",
-    "lat": 29.4241,
-    "lng": -98.4936,
-    "description": "Pressed penny machine near riverside shops and restaurants.",
-    "tags": ["Texas", "tourist", "river walk"],
-    "state": "TX",
-    "photo": "https://example.com/photos/san_antonio_river_walk.jpg"
   },
   {
     "name": "Houston Museum of Natural Science",
@@ -70,15 +61,5 @@
     "tags": ["beach", "Texas"],
     "state": "TX",
     "photo": "https://example.com/photos/south_padre_island.jpg"
-  },
-  {
-    "name": "The Alamo",
-    "lat": 29.4259,
-    "lng": -98.4861,
-    "description": "Pressed penny machine near the gift shop.",
-    "tags": ["historic", "Texas", "tourist"],
-    "state": "TX",
-    "photo": "https://example.com/photos/the_alamo.jpg"
   }
-
 ]

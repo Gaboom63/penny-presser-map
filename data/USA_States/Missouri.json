@@ -6,6 +6,42 @@
     "description": "Inside the museum under the Arch.",
     "tags": ["St. Louis", "historic", "tourist"],
     "state": "MO",
-    "photo": "https://example.com/photos/gateway_arch.jpg"
+    "photo": "https://pennypresses.com/products/pressed-penny-the-arch-st-louis-mo-gateway-to-the-world-arch-with-paddlewheel-boat"
+  },
+  {
+    "name": "City Museum",
+    "lat": 38.6270,
+    "lng": -90.2006,
+    "description": "Penny press machine located near the entrance gift shop.",
+    "tags": ["St. Louis", "museum", "family"],
+    "state": "MO",
+    "photo": "https://pennypresses.com/products/pressed-penny-city-museum-saint-louis"
+  },
+  {
+    "name": "Silver Dollar City",
+    "lat": 36.6814,
+    "lng": -93.3086,
+    "description": "Multiple penny press machines located throughout the park.",
+    "tags": ["Branson", "theme park", "family", "entertainment"],
+    "state": "MO",
+    "photo": "https://pennypresses.com/products/pressed-penny-silver-dollar-city-blacksmith-with-anvil"
+  },
+  {
+    "name": "Missouri State Fair",
+    "lat": 38.8709,
+    "lng": -92.1791,
+    "description": "Penny press machine near the main entrance during the fair.",
+    "tags": ["Sedalia", "fair", "seasonal"],
+    "state": "MO",
+    "photo": "https://www.flickr.com/photos/missouristatearchives/6030057242/"
+  },
+  {
+    "name": "National Churchill Museum",
+    "lat": 39.0028,
+    "lng": -94.3532,
+    "description": "Penny press machine available in the museum gift shop.",
+    "tags": ["Fulton", "museum", "history"],
+    "state": "MO",
+    "photo": "https://www.nationalchurchillmuseum.org/"
   }
 ]

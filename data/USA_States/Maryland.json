@@ -4,7 +4,7 @@
     "lat": 39.2856,
     "lng": -76.6057,
     "description": "Machine near the entrance.",
-    "tags": ["aquarium", "Maryland"],
+    "tags": ["aquarium", "Maryland", "Baltimore"],
     "state": "MD",
     "photo": "https://example.com/photos/national_aquarium_baltimore.jpg"
   },
@@ -13,7 +13,7 @@
     "lat": 38.3365,
     "lng": -75.0849,
     "description": "Souvenir penny machine near rides and shops.",
-    "tags": ["boardwalk", "Maryland"],
+    "tags": ["boardwalk", "Maryland", "Ocean City"],
     "state": "MD",
     "photo": "https://example.com/photos/ocean_city_boardwalk.jpg"
   },
@@ -22,8 +22,35 @@
     "lat": 39.2836,
     "lng": -76.6066,
     "description": "Machine near the entrance.",
-    "tags": ["aquarium", "Maryland"],
+    "tags": ["aquarium", "Maryland", "Baltimore"],
     "state": "MD",
     "photo": "https://example.com/photos/national_aquarium.jpg"
+  },
+  {
+    "name": "Historic Ships in Baltimore Museum",
+    "lat": 39.2865,
+    "lng": -76.6089,
+    "description": "Pressed penny machine near the gift shop, featuring naval-themed designs.",
+    "tags": ["museum", "Baltimore", "naval"],
+    "state": "MD",
+    "photo": ""
+  },
+  {
+    "name": "Maryland Science Center",
+    "lat": 39.2867,
+    "lng": -76.6086,
+    "description": "Pressed penny machine located near the entrance and gift shop.",
+    "tags": ["museum", "science", "Baltimore"],
+    "state": "MD",
+    "photo": ""
+  },
+  {
+    "name": "Six Flags America (Upper Marlboro)",
+    "lat": 38.8083,
+    "lng": -76.7766,
+    "description": "Multiple pressed penny machines throughout the park near major attractions.",
+    "tags": ["theme-park", "Upper Marlboro"],
+    "state": "MD",
+    "photo": ""
   }
 ]

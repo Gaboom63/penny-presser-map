@@ -1,1 +1,29 @@
-{"state": "North_Dakota"}
+[
+  {
+    "name": "North Dakota Heritage Center & State Museum",
+    "lat": 46.8122,
+    "lng": -100.7740,
+    "description": "Penny press machine located inside the museum gift shop.",
+    "tags": ["museum", "Bismarck", "history"],
+    "state": "ND",
+    "photo": "https://www.history.nd.gov/sites/www/files/styles/header_full/public/logo.png"
+  },
+  {
+    "name": "Fort Abraham Lincoln State Park",
+    "lat": 46.7206,
+    "lng": -100.8327,
+    "description": "Penny press machine near the visitor center.",
+    "tags": ["historic site", "state park", "Mandan"],
+    "state": "ND",
+    "photo": "https://www.parkrec.nd.gov/sites/default/files/styles/header_full/public/fort-abraham-lincoln-state-park-logo.png"
+  },
+  {
+    "name": "Maah Daah Hey Trailhead Visitor Center",
+    "lat": 46.8795,
+    "lng": -103.5312,
+    "description": "Penny press machine located at the trailhead visitor center.",
+    "tags": ["outdoor", "trail", "family"],
+    "state": "ND",
+    "photo": "https://maahdaahheytrail.org/wp-content/uploads/2021/03/MDHT_Logo.png"
+  }
+]

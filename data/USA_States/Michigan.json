@@ -16,5 +16,32 @@
     "tags": ["museum", "Michigan", "history"],
     "state": "MI",
     "photo": "https://example.com/photos/henry_ford_museum.jpg"
+  },
+  {
+    "name": "Detroit Zoo",
+    "lat": 42.5489,
+    "lng": -83.2799,
+    "description": "Pressed penny machine near the main entrance, featuring animal-themed designs.",
+    "tags": ["zoo", "Michigan", "Detroit"],
+    "state": "MI",
+    "photo": ""
+  },
+  {
+    "name": "Michigan Science Center",
+    "lat": 42.3369,
+    "lng": -83.0484,
+    "description": "Penny press machine near the gift shop and entrance.",
+    "tags": ["museum", "science", "Detroit"],
+    "state": "MI",
+    "photo": ""
+  },
+  {
+    "name": "Frankenmuth Bavarian Inn Lodge",
+    "lat": 43.0127,
+    "lng": -83.7455,
+    "description": "Souvenir penny machine located in the lodge gift shop.",
+    "tags": ["hotel", "souvenir", "Frankenmuth"],
+    "state": "MI",
+    "photo": ""
   }
 ]

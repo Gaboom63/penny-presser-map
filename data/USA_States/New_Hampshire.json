@@ -1,1 +1,38 @@
-{"state": "New_Hampshire"}
+[
+  {
+    "name": "Mount Washington Cog Railway",
+    "lat": 44.2706,
+    "lng": -71.3033,
+    "description": "Penny press machine located near the ticket office.",
+    "tags": ["Mount Washington", "railway", "tourist"],
+    "state": "NH",
+    "photo": "https://www.thecog.com/wp-content/uploads/2018/04/logo.png"
+  },
+  {
+    "name": "Canterbury Shaker Village",
+    "lat": 43.2448,
+    "lng": -71.5305,
+    "description": "Penny press machine in the visitor center gift shop.",
+    "tags": ["Canterbury", "historic village", "museum"],
+    "state": "NH",
+    "photo": "https://www.shakers.org/wp-content/uploads/2018/11/canterbury-shaker-logo.png"
+  },
+  {
+    "name": "Story Land",
+    "lat": 44.0663,
+    "lng": -71.6690,
+    "description": "Penny press machine located inside the theme park.",
+    "tags": ["Glen", "theme park", "family"],
+    "state": "NH",
+    "photo": "https://www.storylandnh.com/wp-content/uploads/2019/04/storyland-logo.png"
+  },
+  {
+    "name": "USS Albacore Museum",
+    "lat": 43.0836,
+    "lng": -70.7978,
+    "description": "Penny press machine near the submarine exhibit entrance.",
+    "tags": ["Portsmouth", "museum", "naval history"],
+    "state": "NH",
+    "photo": "https://albacore.org/wp-content/uploads/2018/05/albacore-logo.png"
+  }
+]

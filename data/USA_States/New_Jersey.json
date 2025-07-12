@@ -7,5 +7,32 @@
     "tags": ["museum", "New Jersey"],
     "state": "NJ",
     "photo": "https://example.com/photos/liberty_science_center.jpg"
+  },
+  {
+    "name": "Adventure Aquarium",
+    "lat": 39.9442,
+    "lng": -75.1175,
+    "description": "Penny press machine near the main entrance.",
+    "tags": ["aquarium", "Camden", "family"],
+    "state": "NJ",
+    "photo": "https://www.adventureaquarium.com/assets/images/logo.png"
+  },
+  {
+    "name": "Jenkinson's Boardwalk",
+    "lat": 39.9366,
+    "lng": -74.0651,
+    "description": "Multiple penny press machines along the boardwalk.",
+    "tags": ["beach", "point pleasant", "tourist"],
+    "state": "NJ",
+    "photo": "https://www.jenkinsons.com/images/logo.png"
+  },
+  {
+    "name": "Grounds For Sculpture",
+    "lat": 40.3177,
+    "lng": -74.7069,
+    "description": "Penny press machine available in the gift shop.",
+    "tags": ["art park", "Hamilton", "sculpture"],
+    "state": "NJ",
+    "photo": "https://www.groundsforsculpture.org/assets/images/logo.png"
   }
 ]

@@ -17,7 +17,7 @@
     "state": "TN",
     "photo": "https://example.com/photos/smoky_mountains.jpg"
   },
-    {
+  {
     "name": "Dollywood Theme Park",
     "lat": 35.8169,
     "lng": -83.5703,
@@ -35,7 +35,7 @@
     "state": "TN",
     "photo": "https://example.com/photos/pigeon_forge.jpg"
   },
-    {
+  {
     "name": "Opry Mills Mall",
     "lat": 36.1592,
     "lng": -86.7816,
@@ -53,5 +53,4 @@
     "state": "TN",
     "photo": "https://example.com/photos/chattanooga_riverwalk.jpg"
   }
-
 ]

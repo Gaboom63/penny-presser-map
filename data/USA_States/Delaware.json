@@ -1,1 +1,65 @@
-{"state": "Delaware"}
+[
+  {
+    "name": "Rehoboth Beach Boardwalk",
+    "lat": 38.7158,
+    "lng": -75.0760,
+    "description": "Pressed‑penny machines located along the Rehoboth Beach boardwalk near souvenir shops.",
+    "tags": ["beach", "tourist", "boardwalk"],
+    "state": "DE",
+    "photo": ""
+  },
+  {
+    "name": "Bethany Beach Pavilion",
+    "lat": 38.5398,
+    "lng": -75.0753,
+    "description": "Souvenir penny press machine in pavilion gift shop on the Bethany Beach boardwalk.",
+    "tags": ["beach", "tourist", "boardwalk"],
+    "state": "DE",
+    "photo": ""
+  },
+  {
+    "name": "Fenwick Island Gift Shop",
+    "lat": 38.4571,
+    "lng": -75.0532,
+    "description": "Pressed‑penny machine inside a beachfront gift shop in Fenwick Island.",
+    "tags": ["beach", "tourist", "souvenir"],
+    "state": "DE",
+    "photo": ""
+  },
+  {
+    "name": "Lewes Historic District Souvenir Shop",
+    "lat": 38.7746,
+    "lng": -75.1397,
+    "description": "Pressed penny press in a downtown Lewes tourist souvenir store.",
+    "tags": ["historic district", "tourist", "souvenir"],
+    "state": "DE",
+    "photo": ""
+  },
+  {
+    "name": "Newark Shopping Center",
+    "lat": 39.6837,
+    "lng": -75.7497,
+    "description": "Pressed‑penny machine located in one of the gift shops at Newark’s main shopping center.",
+    "tags": ["mall", "gift shop", "Newark"],
+    "state": "DE",
+    "photo": ""
+  },
+  {
+    "name": "Wilmington Riverfront",
+    "lat": 39.7391,
+    "lng": -75.5496,
+    "description": "Pressed‑penny machine located near the Wilmington Riverfront shops and eateries.",
+    "tags": ["tourist", "riverfront", "souvenir"],
+    "state": "DE",
+    "photo": ""
+  },
+  {
+    "name": "Dover AFB Base Exchange",
+    "lat": 39.1582,
+    "lng": -75.4667,
+    "description": "Pressed‑penny machine located inside the Base Exchange at Dover Air Force Base.",
+    "tags": ["military base", "gift shop", "AFB"],
+    "state": "DE",
+    "photo": ""
+  }
+]

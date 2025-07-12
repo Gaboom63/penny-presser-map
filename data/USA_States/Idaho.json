@@ -1,1 +1,47 @@
-{"state": "Idaho"}
+[
+  {
+    "name": "Museum of North Idaho (Coeur d'Alene)",
+    "lat": 47.6777,
+    "lng": -116.7805,
+    "description": "Pressed-penny machine near gift shop, featuring local history themes.",
+    "tags": ["museum", "Coeur d'Alene"],
+    "state": "ID",
+    "photo": ""
+  },
+  {
+    "name": "Idaho Falls Zoo at Tautphaus Park",
+    "lat": 43.5031,
+    "lng": -112.0697,
+    "description": "Machine near zoo entrance with animal-themed penny designs.",
+    "tags": ["zoo", "Idaho Falls"],
+    "state": "ID",
+    "photo": ""
+  },
+  {
+    "name": "Shoshone Falls Visitor Area (near Twin Falls)",
+    "lat": 42.1916,
+    "lng": -114.4331,
+    "description": "Pressed-penny machine at Shoshone Falls scenic area.",
+    "tags": ["scenic", "waterfall"],
+    "state": "ID",
+    "photo": ""
+  },
+  {
+    "name": "MK Nature Center (Boise)",
+    "lat": 43.6167,
+    "lng": -116.2146,
+    "description": "Penny smasher in the nature center gift area.",
+    "tags": ["nature center", "Boise"],
+    "state": "ID",
+    "photo": ""
+  },
+  {
+    "name": "Museum of Idaho (Idaho Falls)",
+    "lat": 43.4948,
+    "lng": -112.0443,
+    "description": "Machine in museum gift shop, with exhibits-themed designs.",
+    "tags": ["museum", "Idaho Falls"],
+    "state": "ID",
+    "photo": ""
+  }
+]

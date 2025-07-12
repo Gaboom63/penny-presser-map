@@ -4,8 +4,35 @@
     "lat": 35.6869,
     "lng": -105.9378,
     "description": "Machine near artisan shops in the plaza.",
-    "tags": ["New Mexico", "historic"],
+    "tags": ["New Mexico", "historic", "tourist"],
     "state": "NM",
     "photo": "https://example.com/photos/santa_fe_plaza.jpg"
+  },
+  {
+    "name": "Albuquerque Old Town",
+    "lat": 35.1067,
+    "lng": -106.6126,
+    "description": "Penny press machine near the visitor center.",
+    "tags": ["Albuquerque", "historic", "tourist"],
+    "state": "NM",
+    "photo": "https://www.visitalbuquerque.org/wp-content/uploads/2021/05/old-town-albuquerque-logo.png"
+  },
+  {
+    "name": "Taos Pueblo",
+    "lat": 36.4511,
+    "lng": -105.5733,
+    "description": "Penny press machine near the gift shop of this UNESCO World Heritage site.",
+    "tags": ["Taos", "historic", "native culture"],
+    "state": "NM",
+    "photo": "https://taospueblo.com/images/logo.png"
+  },
+  {
+    "name": "Roswell Museum and Art Center",
+    "lat": 33.3943,
+    "lng": -104.5230,
+    "description": "Penny press machine available inside the museum gift shop.",
+    "tags": ["Roswell", "museum", "art"],
+    "state": "NM",
+    "photo": "https://roswellmuseum.org/images/logo.png"
   }
 ]

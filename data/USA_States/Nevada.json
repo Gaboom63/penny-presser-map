@@ -7,5 +7,32 @@
     "tags": ["Las Vegas", "tourist", "souvenir"],
     "state": "NV",
     "photo": "https://example.com/photos/m_and_m_world.jpg"
+  },
+  {
+    "name": "Nevada State Museum – Las Vegas",
+    "lat": 36.1596,
+    "lng": -115.1720,
+    "description": "Penny press machine near the museum gift shop.",
+    "tags": ["Las Vegas", "museum", "history"],
+    "state": "NV",
+    "photo": "https://nsmlv.nv.gov/images/logo.png"
+  },
+  {
+    "name": "Fremont Street Experience",
+    "lat": 36.1699,
+    "lng": -115.1410,
+    "description": "Penny press machines located at souvenir shops along Fremont Street.",
+    "tags": ["Las Vegas", "historic district", "tourist"],
+    "state": "NV",
+    "photo": "https://cdn.visitlasvegas.com/uploads/2019/02/fremontstreet-700x467.jpg"
+  },
+  {
+    "name": "Ethel M Chocolates Factory and Cactus Garden",
+    "lat": 36.0973,
+    "lng": -115.1354,
+    "description": "Penny press machine in the chocolate factory gift shop.",
+    "tags": ["Henderson", "chocolate", "tourist"],
+    "state": "NV",
+    "photo": "https://www.ethelm.com/images/ethel-m-logo.jpg"
   }
 ]

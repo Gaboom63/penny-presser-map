@@ -8,7 +8,7 @@
     "state": "MN",
     "photo": "https://example.com/photos/mall_of_america.jpg"
   },
-   {
+  {
     "name": "Minneapolis Mall of America",
     "lat": 44.8547,
     "lng": -93.2422,
@@ -16,5 +16,32 @@
     "tags": ["mall", "Minnesota"],
     "state": "MN",
     "photo": "https://example.com/photos/mall_of_america_2.jpg"
+  },
+  {
+    "name": "Minnesota Zoo",
+    "lat": 44.8721,
+    "lng": -93.2183,
+    "description": "Pressed penny machine near the main entrance featuring animal designs.",
+    "tags": ["zoo", "Minnesota", "Apple Valley"],
+    "state": "MN",
+    "photo": ""
+  },
+  {
+    "name": "Como Park Zoo and Conservatory",
+    "lat": 44.9675,
+    "lng": -93.1555,
+    "description": "Souvenir penny machine near the zoo entrance in St. Paul.",
+    "tags": ["zoo", "Minnesota", "St. Paul"],
+    "state": "MN",
+    "photo": ""
+  },
+  {
+    "name": "Science Museum of Minnesota",
+    "lat": 44.9479,
+    "lng": -93.0997,
+    "description": "Pressed penny machine near the entrance and gift shop.",
+    "tags": ["museum", "science", "Minnesota", "St. Paul"],
+    "state": "MN",
+    "photo": ""
   }
 ]

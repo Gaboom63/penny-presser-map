@@ -7,5 +7,32 @@
     "tags": ["zoo", "Nebraska"],
     "state": "NE",
     "photo": "https://example.com/photos/henry_doorly_zoo.jpg"
+  },
+  {
+    "name": "Strategic Air Command & Aerospace Museum",
+    "lat": 41.2739,
+    "lng": -96.1254,
+    "description": "Penny press machine in the museum gift shop.",
+    "tags": ["museum", "military", "Omaha"],
+    "state": "NE",
+    "photo": "https://sacmuseum.org/images/sacmuseum-logo.png"
+  },
+  {
+    "name": "Lincoln Children's Zoo",
+    "lat": 40.8194,
+    "lng": -96.6813,
+    "description": "Penny press machine located near the main entrance.",
+    "tags": ["zoo", "family", "Lincoln"],
+    "state": "NE",
+    "photo": "https://lincolnzoo.org/images/logo.png"
+  },
+  {
+    "name": "Museum of Nebraska Art",
+    "lat": 41.1329,
+    "lng": -96.3475,
+    "description": "Penny press machine available near the gift shop.",
+    "tags": ["museum", "art", "Kearney"],
+    "state": "NE",
+    "photo": "https://www.monamuseum.org/sites/default/files/monalogo.png"
   }
 ]

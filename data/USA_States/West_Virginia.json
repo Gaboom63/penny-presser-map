@@ -1,1 +1,29 @@
-{"state": "West_Virginia"}
+[
+  {
+    "name": "New River Gorge National Park and Preserve",
+    "lat": 38.0667,
+    "lng": -81.0840,
+    "description": "Penny press machine near the visitor center.",
+    "tags": ["national park", "West Virginia", "outdoors"],
+    "state": "WV",
+    "photo": "https://www.nps.gov/neri/planyourvisit/images/NERI-logo.png"
+  },
+  {
+    "name": "Harper’s Ferry National Historical Park",
+    "lat": 39.3259,
+    "lng": -77.7391,
+    "description": "Machine located near the museum gift shop.",
+    "tags": ["historic", "West Virginia", "museum"],
+    "state": "WV",
+    "photo": "https://www.nps.gov/hafe/planyourvisit/images/HAFE-logo.png"
+  },
+  {
+    "name": "West Virginia State Capitol",
+    "lat": 38.3498,
+    "lng": -81.6326,
+    "description": "Penny press machine near the visitor center gift shop.",
+    "tags": ["government", "West Virginia", "historic"],
+    "state": "WV",
+    "photo": "https://www.wv.gov/SiteCollectionImages/capitol_logo.png"
+  }
+]

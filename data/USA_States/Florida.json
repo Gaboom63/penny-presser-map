@@ -21,8 +21,8 @@
     "name": "St. Augustine Historic District",
     "lat": 29.8947,
     "lng": -81.3146,
-    "description": "Pressed penny machines near local museums.",
-    "tags": ["historic", "Florida"],
+    "description": "Pressed penny machines near local museums and historic shops in downtown St. Augustine.",
+    "tags": ["historic", "Florida", "tourist"],
     "state": "FL",
     "photo": "https://example.com/photos/st_augustine.jpg"
   },
@@ -35,41 +35,40 @@
     "state": "FL",
     "photo": "https://example.com/photos/jacksonville_zoo.jpg"
   },
-    {
+  {
     "name": "Pier 60 Clearwater Beach",
     "lat": 27.9771,
     "lng": -82.8267,
-    "description": "Souvenir penny machine near fishing piers and shops.",
-    "tags": ["beach", "Florida"],
+    "description": "4‑design machine in gift shop building in front of the pier: mermaid, shark, dolphin, sailboat/palm trees designs. :contentReference[oaicite:1]{index=1}",
+    "tags": ["beach", "tourist", "boardwalk"],
     "state": "FL",
     "photo": "https://example.com/photos/pier_60_clearwater.jpg"
   },
   {
-    "name": "Universal Studios Orlando",
-    "lat": 28.4723,
-    "lng": -81.4667,
-    "description": "Multiple penny press machines throughout the park.",
-    "tags": ["theme-park", "Florida"],
+    "name": "Disney’s Earport Store – Orlando International Airport",
+    "lat": 28.4311,
+    "lng": -81.3081,
+    "description": "8‑design machine pre‑security in Disney Earport store at MCO. :contentReference[oaicite:2]{index=2}",
+    "tags": ["airport", "Disney", "Florida"],
     "state": "FL",
-    "photo": "https://example.com/photos/universal_orlando.jpg"
+    "photo": ""
   },
   {
-    "name": "Fort Lauderdale Beach",
-    "lat": 26.1224,
-    "lng": -80.1373,
-    "description": "Machine near beachfront shops and attractions.",
-    "tags": ["beach", "Florida"],
+    "name": "Universal Studios CityWalk – Orlando",
+    "lat": 28.4751,
+    "lng": -81.4670,
+    "description": "8‑design machine inside the Universal Legacy Store at CityWalk. :contentReference[oaicite:3]{index=3}",
+    "tags": ["theme-park", "Universal", "Orlando"],
     "state": "FL",
-    "photo": "https://example.com/photos/fort_lauderdale_beach.jpg"
+    "photo": ""
   },
   {
-    "name": "St. Augustine Historic District",
-    "lat": 29.8956,
-    "lng": -81.3145,
-    "description": "Souvenir penny machine in the historic downtown area.",
-    "tags": ["historic", "Florida", "tourist"],
+    "name": "Shell World – Key Largo",
+    "lat": 25.0868,
+    "lng": -80.4473,
+    "description": "4‑design machine at Shell World gift shop: Key Largo shell, Key West cone, etc. :contentReference[oaicite:4]{index=4}",
+    "tags": ["souvenir shop", "Florida Keys"],
     "state": "FL",
-    "photo": "https://example.com/photos/st_augustine_historic.jpg"
+    "photo": ""
   }
-
 ]

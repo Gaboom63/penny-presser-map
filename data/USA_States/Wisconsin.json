@@ -16,5 +16,41 @@
     "tags": ["zoo", "Wisconsin"],
     "state": "WI",
     "photo": "https://example.com/photos/madison_zoo.jpg"
+  },
+   {
+    "name": "Milwaukee County Zoo",
+    "lat": 43.0692,
+    "lng": -88.0154,
+    "description": "Machine located near the main gift shop.",
+    "tags": ["zoo", "Milwaukee"],
+    "state": "WI",
+    "photo": "https://example.com/photos/milwaukee_county_zoo.jpg"
+  },
+  {
+    "name": "Wisconsin Dells Waterparks",
+    "lat": 43.6279,
+    "lng": -89.7750,
+    "description": "Multiple penny press machines located throughout the waterpark area.",
+    "tags": ["waterpark", "tourist", "Wisconsin Dells"],
+    "state": "WI",
+    "photo": "https://example.com/photos/wisconsin_dells_waterparks.jpg"
+  },
+  {
+    "name": "Henry Vilas Zoo",
+    "lat": 43.0867,
+    "lng": -89.3851,
+    "description": "Penny press machine near the entrance.",
+    "tags": ["zoo", "Madison"],
+    "state": "WI",
+    "photo": "https://example.com/photos/henry_vilas_zoo.jpg"
+  },
+  {
+    "name": "Taliesin – Frank Lloyd Wright Home",
+    "lat": 43.2217,
+    "lng": -90.1233,
+    "description": "Machine located at the visitor center gift shop.",
+    "tags": ["historic", "architecture", "Spring Green"],
+    "state": "WI",
+    "photo": "https://example.com/photos/taliesin.jpg"
   }
 ]

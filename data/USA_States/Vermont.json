@@ -1,1 +1,38 @@
-{"state": "Vermont"}
+[
+  {
+    "name": "Ben & Jerry’s Factory",
+    "lat": 44.4094,
+    "lng": -72.9971,
+    "description": "Penny press machine located in the visitor center gift shop.",
+    "tags": ["factory", "Vermont", "tourist"],
+    "state": "VT",
+    "photo": "https://www.benjerry.com/files/live/sites/systemsite/files/whats-new/ben-jerrys-logo.png"
+  },
+  {
+    "name": "Ethan Allen Homestead",
+    "lat": 44.2962,
+    "lng": -73.2121,
+    "description": "Penny press machine near the museum gift shop.",
+    "tags": ["historic", "museum", "Vermont"],
+    "state": "VT",
+    "photo": "https://ethanallen.org/wp-content/uploads/2019/03/ethan-allen-logo.png"
+  },
+  {
+    "name": "Shelburne Museum",
+    "lat": 44.3971,
+    "lng": -73.2405,
+    "description": "Penny press machine located near the entrance gift shop.",
+    "tags": ["museum", "Shelburne", "art"],
+    "state": "VT",
+    "photo": "https://shelburnemuseum.org/wp-content/uploads/2019/03/shelburne-logo.png"
+  },
+  {
+    "name": "Lake Champlain Maritime Museum",
+    "lat": 44.4160,
+    "lng": -73.2467,
+    "description": "Penny press machine near the museum entrance.",
+    "tags": ["museum", "maritime", "Vermont"],
+    "state": "VT",
+    "photo": "https://www.lcmm.org/images/logo.png"
+  }
+]

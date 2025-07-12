@@ -16,5 +16,23 @@
     "tags": ["zoo", "Ohio"],
     "state": "OH",
     "photo": "https://example.com/photos/columbus_zoo.jpg"
+  },
+  {
+    "name": "COSI (Center of Science and Industry)",
+    "lat": 39.9656,
+    "lng": -83.0007,
+    "description": "Penny press machine located near the main entrance.",
+    "tags": ["science museum", "Columbus", "family"],
+    "state": "OH",
+    "photo": "https://cosi.org/wp-content/uploads/2019/09/cosi-logo.png"
+  },
+  {
+    "name": "Pro Football Hall of Fame",
+    "lat": 40.8473,
+    "lng": -81.3505,
+    "description": "Machine available in the museum gift shop.",
+    "tags": ["sports museum", "Canton", "football"],
+    "state": "OH",
+    "photo": "https://www.profootballhof.com/wp-content/uploads/2019/01/halloffamelogo.png"
   }
 ]

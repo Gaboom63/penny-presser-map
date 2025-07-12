@@ -8,7 +8,7 @@
     "state": "PA",
     "photo": "https://example.com/photos/philadelphia_museum.jpg"
   },
-   {
+  {
     "name": "Liberty Bell Center",
     "lat": 39.9496,
     "lng": -75.1503,
@@ -17,7 +17,7 @@
     "state": "PA",
     "photo": "https://example.com/photos/liberty_bell_center.jpg"
   },
-    {
+  {
     "name": "Philadelphia Zoo",
     "lat": 39.9736,
     "lng": -75.1997,
@@ -27,13 +27,21 @@
     "photo": "https://example.com/photos/philadelphia_zoo.jpg"
   },
   {
-    "name": "Philadelphia Museum of Art",
-    "lat": 39.9656,
-    "lng": -75.1800,
-    "description": "Pressed penny machine near the museum entrance.",
-    "tags": ["museum", "Philadelphia", "art"],
+    "name": "Independence Hall",
+    "lat": 39.9489,
+    "lng": -75.1500,
+    "description": "Penny press machine near the visitor center.",
+    "tags": ["historic", "Philadelphia", "museum"],
     "state": "PA",
-    "photo": "https://example.com/photos/philadelphia_museum_of_art.jpg"
+    "photo": "https://example.com/photos/independence_hall.jpg"
+  },
+  {
+    "name": "Eastern State Penitentiary",
+    "lat": 39.9689,
+    "lng": -75.1721,
+    "description": "Penny press machine near the gift shop.",
+    "tags": ["historic", "Philadelphia", "tourist"],
+    "state": "PA",
+    "photo": "https://example.com/photos/eastern_state_penitentiary.jpg"
   }
-
 ]

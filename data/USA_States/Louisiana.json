@@ -16,5 +16,68 @@
     "tags": ["museum", "New Orleans"],
     "state": "LA",
     "photo": "https://example.com/photos/national_wwii_museum.jpg"
+  },
+  {
+    "name": "Audubon Zoo",
+    "lat": 29.9270,
+    "lng": -90.1023,
+    "description": "Penny press machine near the main entrance featuring animal designs.",
+    "tags": ["zoo", "New Orleans"],
+    "state": "LA",
+    "photo": ""
+  },
+  {
+    "name": "Louisiana State Museum – Cabildo",
+    "lat": 29.9575,
+    "lng": -90.0637,
+    "description": "Machine inside the museum gift shop near Jackson Square.",
+    "tags": ["museum", "New Orleans", "historic"],
+    "state": "LA",
+    "photo": ""
+  },
+  {
+    "name": "Baton Rouge Zoo",
+    "lat": 30.4583,
+    "lng": -91.1318,
+    "description": "Pressed penny machine near the entrance with wildlife designs.",
+    "tags": ["zoo", "Baton Rouge"],
+    "state": "LA",
+    "photo": ""
+  },
+  {
+    "name": "Louisiana Children’s Museum – City Park",
+    "lat": 30.0107,
+    "lng": -90.0993,
+    "description": "Pressed penny machine inside the museum with child-friendly themes.",
+    "tags": ["museum", "New Orleans", "children"],
+    "state": "LA",
+    "photo": ""
+  },
+  {
+    "name": "Plantation Museum, St. Francisville",
+    "lat": 30.8136,
+    "lng": -91.4067,
+    "description": "Pressed penny machine near historic plantation exhibits.",
+    "tags": ["museum", "historic", "St. Francisville"],
+    "state": "LA",
+    "photo": ""
+  },
+  {
+    "name": "Tabasco Factory and Jungle Gardens, Avery Island",
+    "lat": 29.9725,
+    "lng": -91.8993,
+    "description": "Souvenir penny press machine with Tabasco-themed designs near the factory gift shop.",
+    "tags": ["factory", "Avery Island", "souvenir"],
+    "state": "LA",
+    "photo": ""
+  },
+  {
+    "name": "Lake Charles Civic Center",
+    "lat": 30.2266,
+    "lng": -93.2174,
+    "description": "Penny press machine located in the lobby area.",
+    "tags": ["civic center", "Lake Charles"],
+    "state": "LA",
+    "photo": ""
   }
 ]

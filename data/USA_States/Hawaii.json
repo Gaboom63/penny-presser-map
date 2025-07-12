@@ -1,1 +1,92 @@
-{"state": "Hawaii"}
+[
+  {
+    "name": "Waikiki Food Pantry (Perry’s Smorgy area, Honolulu)",
+    "lat": 21.2878,
+    "lng": -157.8315,
+    "description": "4‑design, hand‑crank machine between Redbox and Coinstar by Waikiki Food Pantry.",
+    "tags": ["retail", "Honolulu", "4‑design", "hand‑crank"],
+    "state": "HI",
+    "photo": ""
+  },
+  {
+    "name": "International Marketplace Food Court (Honolulu)",
+    "lat": 21.2816,
+    "lng": -157.8399,
+    "description": "Pressed penny machine in food court area, near eateries.",
+    "tags": ["mall", "Honolulu", "tourist"],
+    "state": "HI",
+    "photo": ""
+  },
+  {
+    "name": "Ala Moana Center Food Court (Honolulu)",
+    "lat": 21.2910,
+    "lng": -157.8419,
+    "description": "Penny press machine located in the food court near Hilo Hattie store.",
+    "tags": ["mall", "Honolulu", "tourist"],
+    "state": "HI",
+    "photo": ""
+  },
+  {
+    "name": "Iolani Palace Visitor Center (Honolulu)",
+    "lat": 21.3069,
+    "lng": -157.8583,
+    "description": "Machine beside ticket booth inside Iolani Palace grounds.",
+    "tags": ["historic", "Honolulu", "single‑design"],
+    "state": "HI",
+    "photo": ""
+  },
+  {
+    "name": "Polynesian Cultural Center – Oʻahu",
+    "lat": 21.5645,
+    "lng": -157.9684,
+    "description": "8‑design touchscreen penny press in Moana Mercantile near resort lobby.",
+    "tags": ["resort", "theme‑park", "Oʻahu", "8‑design"],
+    "state": "HI",
+    "photo": ""
+  },
+  {
+    "name": "Hawaiʻi Volcanoes National Park – Volcano House",
+    "lat": 19.4219,
+    "lng": -155.2920,
+    "description": "4‑design hand‑crank machine inside Volcano House gift shop.",
+    "tags": ["national park", "volcanoes", "4‑design"],
+    "state": "HI",
+    "photo": ""
+  },
+  {
+    "name": "Maui Tropical Plantation Country Store",
+    "lat": 20.8493,
+    "lng": -156.3714,
+    "description": "4‑design penny smasher in country‑store gift shop outside Lahaina.",
+    "tags": ["plantation", "Maui", "4‑design"],
+    "state": "HI",
+    "photo": ""
+  },
+  {
+    "name": "Queen Kaʻahumanu Center – Kahului, Maui",
+    "lat": 20.8821,
+    "lng": -156.4664,
+    "description": "4‑design penny smasher in the indoor shopping mall.",
+    "tags": ["mall", "Kahului", "4‑design"],
+    "state": "HI",
+    "photo": ""
+  },
+  {
+    "name": "Corners of the Pacific – Kona, Big Island",
+    "lat": 19.6361,
+    "lng": -155.9950,
+    "description": "3‑design penny smasher in front of souvenir shop in Kona town.",
+    "tags": ["souvenir shop", "Kona", "3‑design"],
+    "state": "HI",
+    "photo": ""
+  },
+  {
+    "name": "Kahului Airport (OGG)",
+    "lat": 20.8987,
+    "lng": -156.4300,
+    "description": "Four‑design penny press across from News Stand (upper level near gate 15); token machine by 30‑gate area.",
+    "tags": ["airport", "Maui", "4‑design"],
+    "state": "HI",
+    "photo": ""
+  }
+]

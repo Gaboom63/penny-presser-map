@@ -1,1 +1,38 @@
-{"state": "Oklahoma"}
+[
+  {
+    "name": "Oklahoma City Zoo",
+    "lat": 35.4373,
+    "lng": -97.5162,
+    "description": "Penny press machine located near the main entrance gift shop.",
+    "tags": ["zoo", "Oklahoma City", "family"],
+    "state": "OK",
+    "photo": "https://www.okczoo.org/sites/default/files/okczoo-logo.png"
+  },
+  {
+    "name": "National Cowboy & Western Heritage Museum",
+    "lat": 35.5020,
+    "lng": -97.5123,
+    "description": "Penny press machine in the museum gift shop.",
+    "tags": ["museum", "Western heritage", "Oklahoma City"],
+    "state": "OK",
+    "photo": "https://nationalcowboymuseum.org/wp-content/uploads/2019/04/logo.png"
+  },
+  {
+    "name": "Philbrook Museum of Art",
+    "lat": 36.1523,
+    "lng": -95.9618,
+    "description": "Penny press machine located near the entrance gift shop.",
+    "tags": ["museum", "Tulsa", "art"],
+    "state": "OK",
+    "photo": "https://philbrook.org/wp-content/uploads/2019/07/philbrook-logo.png"
+  },
+  {
+    "name": "Tulsa Zoo",
+    "lat": 36.1156,
+    "lng": -95.8903,
+    "description": "Machine located near the zoo entrance gift shop.",
+    "tags": ["zoo", "Tulsa", "family"],
+    "state": "OK",
+    "photo": "https://tulsazoo.org/wp-content/uploads/2020/05/tulsa-zoo-logo.png"
+  }
+]

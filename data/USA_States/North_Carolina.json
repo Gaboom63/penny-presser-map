@@ -1,1 +1,38 @@
-{"state": "North_Carolina"}
+[
+  {
+    "name": "North Carolina Zoo",
+    "lat": 35.2440,
+    "lng": -79.9489,
+    "description": "Penny press machine located near the main entrance.",
+    "tags": ["zoo", "family", "Asheboro"],
+    "state": "NC",
+    "photo": "https://www.nczoo.org/sites/default/files/nczoo-logo.png"
+  },
+  {
+    "name": "Biltmore Estate",
+    "lat": 35.5396,
+    "lng": -82.5530,
+    "description": "Pressed penny machine near the gift shop.",
+    "tags": ["estate", "Asheville", "historic"],
+    "state": "NC",
+    "photo": "https://www.biltmore.com/sites/default/files/biltmore-logo.png"
+  },
+  {
+    "name": "Wright Brothers National Memorial",
+    "lat": 36.0180,
+    "lng": -75.6712,
+    "description": "Penny press machine near the visitor center.",
+    "tags": ["historic", "Kill Devil Hills", "aviation"],
+    "state": "NC",
+    "photo": "https://www.nps.gov/wrbr/planyourvisit/images/WrBr_Logo_2C_RGB_2017-02-01.jpg"
+  },
+  {
+    "name": "North Carolina Aquarium at Fort Fisher",
+    "lat": 33.9961,
+    "lng": -77.9442,
+    "description": "Penny press machine near the main entrance.",
+    "tags": ["aquarium", "family", "Wilmington"],
+    "state": "NC",
+    "photo": "https://www.ncaquariums.com/sites/default/files/fisher-logo.png"
+  }
+]

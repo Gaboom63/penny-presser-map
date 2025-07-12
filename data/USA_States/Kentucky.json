@@ -1,1 +1,47 @@
-{"state": "Kentucky"}
+[
+  {
+    "name": "Kentucky Kingdom",
+    "lat": 38.2537,
+    "lng": -85.7577,
+    "description": "Multiple penny press machines throughout the amusement park near rides and gift shops.",
+    "tags": ["theme-park", "amusement", "Louisville"],
+    "state": "KY",
+    "photo": ""
+  },
+  {
+    "name": "Louisville Zoo",
+    "lat": 38.2305,
+    "lng": -85.7297,
+    "description": "Machine located near the front entrance and gift shop featuring animal-themed designs.",
+    "tags": ["zoo", "Louisville"],
+    "state": "KY",
+    "photo": ""
+  },
+  {
+    "name": "The Muhammad Ali Center",
+    "lat": 38.2527,
+    "lng": -85.7570,
+    "description": "Pressed penny machine located inside the museum gift shop, themed around Muhammad Ali’s life and legacy.",
+    "tags": ["museum", "Louisville", "sports"],
+    "state": "KY",
+    "photo": ""
+  },
+  {
+    "name": "Newport Aquarium",
+    "lat": 39.0841,
+    "lng": -84.4563,
+    "description": "Penny press machine near the main entrance, featuring sea life designs.",
+    "tags": ["aquarium", "Newport"],
+    "state": "KY",
+    "photo": ""
+  },
+  {
+    "name": "Kentucky Derby Museum",
+    "lat": 38.2111,
+    "lng": -85.7606,
+    "description": "Pressed penny machine in the museum gift shop, featuring horse racing themed designs.",
+    "tags": ["museum", "Louisville", "horse racing"],
+    "state": "KY",
+    "photo": ""
+  }
+]

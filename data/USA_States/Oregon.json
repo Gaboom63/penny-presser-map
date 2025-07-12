@@ -16,5 +16,23 @@
     "tags": ["Portland", "garden", "tourist"],
     "state": "OR",
     "photo": "https://example.com/photos/portland_japanese_garden.jpg"
+  },
+  {
+    "name": "Oregon Museum of Science and Industry (OMSI)",
+    "lat": 45.5122,
+    "lng": -122.6653,
+    "description": "Penny press machine near the main entrance.",
+    "tags": ["museum", "science", "Portland"],
+    "state": "OR",
+    "photo": "https://omsi.edu/sites/default/files/OMSI-Logo.png"
+  },
+  {
+    "name": "Oregon Coast Aquarium",
+    "lat": 44.6506,
+    "lng": -124.0531,
+    "description": "Penny press machine located near the gift shop.",
+    "tags": ["aquarium", "family", "Newport"],
+    "state": "OR",
+    "photo": "https://aquarium.org/sites/default/files/aquarium_logo.png"
   }
 ]

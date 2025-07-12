@@ -16,5 +16,41 @@
     "tags": ["Chicago", "tourist"],
     "state": "IL",
     "photo": "https://example.com/photos/navy_pier_ferris_wheel.jpg"
+  },
+  {
+    "name": "Brookfield Zoo",
+    "lat": 41.8385,
+    "lng": -87.8404,
+    "description": "Penny press located by the Carousel area.",
+    "tags": ["zoo", "family", "Chicago suburbs"],
+    "state": "IL",
+    "photo": ""
+  },
+  {
+    "name": "Wrigley Field",
+    "lat": 41.9484,
+    "lng": -87.6553,
+    "description": "Machine located near the main entrance on Addison Street.",
+    "tags": ["sports", "baseball", "Chicago"],
+    "state": "IL",
+    "photo": ""
+  },
+  {
+    "name": "The Field Museum",
+    "lat": 41.8663,
+    "lng": -87.6170,
+    "description": "Multiple machines (2 × 8‑design touchscreen & 2 × 4‑design hand‑crank) inside the museum campus near entrance levels.",
+    "tags": ["museum", "Chicago", "natural history", "multi‑design"],
+    "state": "IL",
+    "photo": ""
+  },
+  {
+    "name": "The Super Museum (Metropolis)",
+    "lat": 37.1527,
+    "lng": -88.7354,
+    "description": "4‑design penny press featuring Superman imagery inside the gift shop.",
+    "tags": ["museum", "Superman", "Metropolis"],
+    "state": "IL",
+    "photo": ""
   }
 ]

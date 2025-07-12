@@ -1,1 +1,29 @@
-{"state": "Iowa"}
+[
+  {
+    "name": "Iowa Hall of Pride",
+    "lat": 41.6632,
+    "lng": -91.5302,
+    "description": "Penny press in the sports hall of fame museum, featuring Hawkeye-themed designs.",
+    "tags": ["museum", "sports", "Iowa City"],
+    "state": "IA",
+    "photo": ""
+  },
+  {
+    "name": "Iowa 80 Trucking Museum",
+    "lat": 41.8365,
+    "lng": -93.3904,
+    "description": "Pressed‑penny machine in the gift shop of the world’s largest truck stop museum.",
+    "tags": ["museum", "trucking", "Walcott"],
+    "state": "IA",
+    "photo": ""
+  },
+  {
+    "name": "Scheels All Sports – West Des Moines",
+    "lat": 41.5546,
+    "lng": -93.7240,
+    "description": "Penny press located in the big-box sporting goods store, near the mining/train display.",
+    "tags": ["retail", "sports store", "West Des Moines"],
+    "state": "IA",
+    "photo": ""
+  }
+]

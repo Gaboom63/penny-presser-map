@@ -1,1 +1,38 @@
-{"state": "Mississippi"}
+[
+  {
+    "name": "Mississippi Aquarium",
+    "lat": 30.4015,
+    "lng": -89.0951,
+    "description": "Pressed penny machine near the entrance featuring aquatic-themed designs.",
+    "tags": ["aquarium", "Gulfport"],
+    "state": "MS",
+    "photo": ""
+  },
+  {
+    "name": "Gulf Islands Waterpark",
+    "lat": 30.3920,
+    "lng": -89.0726,
+    "description": "Souvenir penny press machine located near the entrance of the waterpark.",
+    "tags": ["waterpark", "Gulfport"],
+    "state": "MS",
+    "photo": ""
+  },
+  {
+    "name": "Mississippi Children's Museum",
+    "lat": 32.2988,
+    "lng": -90.1848,
+    "description": "Pressed penny machine inside the museum with child-friendly designs.",
+    "tags": ["museum", "Jackson", "children"],
+    "state": "MS",
+    "photo": ""
+  },
+  {
+    "name": "Vicksburg National Military Park",
+    "lat": 32.3524,
+    "lng": -90.8779,
+    "description": "Pressed penny machine near the visitor center featuring historic Civil War designs.",
+    "tags": ["historic", "museum", "Vicksburg"],
+    "state": "MS",
+    "photo": ""
+  }
+]

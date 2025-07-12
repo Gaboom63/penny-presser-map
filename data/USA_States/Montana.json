@@ -1,1 +1,29 @@
-{"state": "Montana"}
+[
+  {
+    "name": "ZooMontana",
+    "lat": 45.8033,
+    "lng": -108.5399,
+    "description": "A wildlife park featuring a penny press machine near the entrance.",
+    "tags": ["Billings", "zoo", "family-friendly"],
+    "state": "MT",
+    "photo": "https://www.zoobillings.org/wp-content/uploads/2020/05/ZooMontana-Logo.png"
+  },
+  {
+    "name": "Montana Snowbowl",
+    "lat": 46.8917,
+    "lng": -113.9194,
+    "description": "A ski area offering a penny press machine at the base lodge.",
+    "tags": ["Missoula", "ski resort", "winter sports"],
+    "state": "MT",
+    "photo": "https://www.montanasnowbowl.com/wp-content/uploads/2019/11/snowbowl-logo.png"
+  },
+  {
+    "name": "Penny Collector Map – Montana",
+    "lat": 47.0000,
+    "lng": -110.0000,
+    "description": "An online resource listing various penny press machine locations across Montana.",
+    "tags": ["Online resource", "comprehensive list"],
+    "state": "MT",
+    "photo": "https://www.penny-collector-map.net/images/penny-collector-map-logo.png"
+  }
+]

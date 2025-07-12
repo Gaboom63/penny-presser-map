@@ -7,5 +7,23 @@
     "tags": ["South Dakota", "historic"],
     "state": "SD",
     "photo": "https://example.com/photos/mount_rushmore.jpg"
+  },
+  {
+    "name": "Crazy Horse Memorial",
+    "lat": 43.8489,
+    "lng": -103.6051,
+    "description": "Penny press machine in the visitor center gift shop.",
+    "tags": ["historic", "memorial", "family"],
+    "state": "SD",
+    "photo": "https://crazyhorsememorial.org/images/logo.png"
+  },
+  {
+    "name": "Bear Country USA",
+    "lat": 44.0336,
+    "lng": -103.4744,
+    "description": "Penny press machine located near the entrance.",
+    "tags": ["wildlife park", "family", "Rapid City"],
+    "state": "SD",
+    "photo": "https://bearcountryusa.com/wp-content/uploads/2019/06/bearcountry-logo.png"
   }
 ]
